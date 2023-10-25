@@ -1,0 +1,14 @@
+[book]
+title = "Crypto 101: Thợ Săn AirDrop"
+description = "Test Project"
+authors = ["SkywireX team"]
+language = "vi"
+multilingual = false
+src = "src"
+git-repository-url = ""
+git-repository-icon = "fa-github"
+
+[output.html]
+git-repository-url = ""
+git-repository-icon = "fa-github"
+default-theme = "light"
