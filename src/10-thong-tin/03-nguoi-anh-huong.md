@@ -99,4 +99,3 @@ Dưới đây là danh sách những người nổi tiếng có ảnh hưởng l
 96.	Mike Hearn (Former Bitcoin Core Developer)
 97.	Jihan Wu (Co-founder of Bitmain)
 98.	Charlie Shrem (Bitcoin entrepreneur and advocate)
-
