@@ -9,6 +9,6 @@ git-repository-url = "https://github.com/skywirex/c101.skywirex.com"
 git-repository-icon = "fa-github"
 
 [output.html]
-git-repository-url = ""
+git-repository-url = "https://github.com/skywirex/c101.skywirex.com"
 git-repository-icon = "fa-github"
 default-theme = "light"
