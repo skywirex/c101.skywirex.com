@@ -14,4 +14,7 @@
 	- [Sàn giao dịch: tập trung và phi tập trung](./08-mua-va-ban/san-giao-dich-cex-dex.md)
 	- [Sử dụng sàn giao dich](./08-mua-va-ban/su-dung-san-giao-dich.md)
 - [Chu kì của thị trường](./09-chu-ki-cua-thi-truong.md)
+	- [Chu kì của Altcoin](./09-chu-ki/01-chu-ki-altcoin.md)
 - [Thông tin](./10-thong-tin.md)
+	- [Twitter nên theo dõi](./10-thong-tin/01-twitter.md)
+	- [Người ảnh hưởng](./10-thong-tin/02-nguoi-anh-huong.md)
