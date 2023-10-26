@@ -8,6 +8,8 @@
 - [Công cụ](./03-cong-cu.md)
 - [Retro Airdrop](./04-retro-airdrop.md)
 - [Chạy node](./05-chay-node.md)
+	- [Kiến thức cơ bản](./05-node/01-kien-thuc-co-ban.md)
+	- [Tìm hiểu về Docker](./05-node/02-tim-hieu-docker.md)
 - [Tìm hiểu về blockchain](./06-tim-hieu-ve-blockchain.md)
 - [Nghiên cứu và tìm kèo](./07-nghien-cuu-va-tim-keo.md)
 - [Mua và bán](./08-mua-va-ban.md)
