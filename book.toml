@@ -1,11 +1,11 @@
 [book]
-title = "Crypto 101: Thợ Săn"
+title = "Crypto 101: Đi Săn"
 description = "Kĩ năng săn kèo trong thế giới Crypto"
 authors = ["SkywireX team"]
 language = "vi"
 multilingual = false
 src = "src"
-git-repository-url = ""
+git-repository-url = "https://github.com/skywirex/c101.skywirex.com"
 git-repository-icon = "fa-github"
 
 [output.html]
