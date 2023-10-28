@@ -5,10 +5,11 @@ authors = ["SkywireX team"]
 language = "vi"
 multilingual = false
 src = "src"
-git-repository-url = "https://github.com/skywirex/c101.skywirex.com"
+git-repository-url = ""
 git-repository-icon = "fa-github"
 
 [output.html]
+google-analytics = "G-4GL9F6JJ2G"
 git-repository-url = "https://github.com/skywirex/c101.skywirex.com"
 git-repository-icon = "fa-github"
 default-theme = "light"
