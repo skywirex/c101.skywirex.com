@@ -21,4 +21,3 @@ Một biểu đồ nữa mà bạn nên lưu ý là biểu đồ DXY. Nói chung
 Hãy nhìn bên cheat sheet bên dưới để suy ngẫm thêm và có những chiến lược đối với thị trường cho riêng mình. Và nên nhớ rằng tất cả những thông tin ở đây đều được đúc kết từ dữ liệu lịch sử, không có gì chắc chắn ở tương lai. Do đó bạn nên cẩn trọng với túi tiền của mình. Những thông tin ở đây không phải là lời khuyên tài chính dành cho bạn.
 
 ![BTC Dominance cheat sheet](images/BTC_dominance_cheat_sheet.jpg)
-
