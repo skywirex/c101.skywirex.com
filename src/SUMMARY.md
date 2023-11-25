@@ -6,6 +6,8 @@
 	- [Lý thuyết](./02-pham-vi/02-ly-thuyet.md)
 	- [Thực hành](./02-pham-vi/03-thuc-hanh.md)
 - [Công cụ](./03-cong-cu.md)
+	- [Tài khoản trực tuyến](./03-cong-cu/01-tai-khoan.md)
+	- [Ví](./03-cong-cu/02-vi.md)
 - [Retro Airdrop](./04-retro-airdrop.md)
 - [Chạy node](./05-chay-node.md)
 	- [Kiến thức cơ bản](./05-node/01-kien-thuc-co-ban.md)
