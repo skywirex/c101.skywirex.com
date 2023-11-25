@@ -48,6 +48,11 @@ Con khỉ thông minh thực sự thông minh. Tôi thích nội dung của họ
 
 Ngâm cứu thêm các Tweet sau:
 
-https://twitter.com/DeFiMinty/status/1679883639230791680
+
 https://twitter.com/DeFiMinty/status/1684255729253744649
+
 https://twitter.com/nobrainflip/status/1683085080561082369 
+
+
+
+https://twitter.com/hasantoxr/status/1718892457428226273
