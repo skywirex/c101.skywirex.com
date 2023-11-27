@@ -1,19 +1,19 @@
 # Tài khoản trực tuyến
 
-	• Lastpass
+   [• Lastpass](https://lastpass.com/)
 
-	• Tài khoản Dropbox
+   [• Tài khoản Dropbox](https://drop.com/)
 
-	• Tài khoản Telegram
+   [• Tài khoản Telegram](https://telegram.org/)
 
-	• Tài khoản Twitter
-		- Tài khoản Twitter nên có tối thiểu 100 follower
+   [• Tài khoản X/Twitter](https://x.com/)
+        - Tài khoản Twitter nên có tối thiểu 100 follower
 
-	• Tài khoản Discord | Your Place to Talk and Hang Out
-		- Bật 2FA
+   [• Tài khoản Discord](https://discord.com/)
+        - Bật 2FA
 
-	• Tài khoản Github
-		- Đăng kí và bật 2FA
+   [• Tài khoản Github](https://github.com/)
+        - Đăng kí và bật 2FA
 
-	• Gitcoin Passport
-		- Gitcoin passport càng cào điểm càng tốt. Có thể đọc thêm ở đây https://hakresearch.com/gitcoin-passport-airdrop/
+   [• Gitcoin Passport](https://www.gitcoin.co/)
+        - Gitcoin passport càng cào điểm càng tốt. Có thể đọc thêm ở đây https://hakresearch.com/gitcoin-passport-airdrop/
