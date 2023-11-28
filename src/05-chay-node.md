@@ -14,6 +14,12 @@ Trong thế giới blockchain, thuật ngữ "node" thường được hiểu l�
 
 6. **Node Giảm Kích Thước (Pruned Nodes):** Các node giảm kích thước chỉ lưu trữ một phần của lịch sử của blockchain, thường chỉ lưu giữ các giao dịch và khối mới nhất. Điều này giảm yêu cầu về lưu trữ trong khi vẫn cho phép xác minh giao dịch.
 
-Các node hợp tác để duy trì tính phi tập trung và không tin cậy của mạng blockchain. Bằng cách phân phối sổ cái và trách nhiệm về đồng thuận qua một mạng các node, công nghệ blockchain đảm bảo tính minh bạch, an ninh và chống lại sự kiểm soát tập trung hoặc điểm kiểm soát đơn lẻ.
+Các node hợp tác để duy trì tính phi tập trung và độ tin cậy của mạng blockchain. Bằng cách phân phối sổ cái và trách nhiệm về sự đồng thuận qua một mạng các node, công nghệ blockchain đảm bảo tính minh bạch, an ninh và chống lại sự kiểm soát tập trung hoặc kiểm soát đơn lẻ.
 
-Thông thường để cài đặt và vận hành một node, bạn cần có kiến thức cơ bản về Linux. Sử dụng Linux thông thạo bằng dòng lệnh là một kiến thức cần phải có để bắt đầu công việc chạy node.
+Thông thường để cài đặt và vận hành một node, bạn cần có kiến thức sau:
+
+- Sử dụng Linux thông thạo bằng dòng lệnh (CLI).
+- Docker để triển khai nhanh một node.
+- Quan trắc node bằng Prometheus.
+
+Ở phần chạy node các bài viết sẽ được tập trung ở các mục tiêu trên.
