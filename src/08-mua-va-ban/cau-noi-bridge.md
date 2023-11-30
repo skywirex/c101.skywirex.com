@@ -15,11 +15,15 @@ Chúng ta cần một cầu nối blockchain để khám phá các hệ sinh th�
 
 Sử dụng và lựa chọn một trong những cầu nối yêu thích bên dưới
 
-[1. Across Protocol] (https://across.to?ref=0x210d1C4c1e94c52edd53039190A3eA43C35e9506)
-[2. Stargate Finance] (https://stargate.finance/)
-[3. Orbiter Finance] (https://www.orbiter.finance/)
-[4. Portal Bridge] (https://www.portalbridge.com/#/transfer)
-[5. Hop Exchange] (https://hop.exchange/)
+[1. Across Protocol](https://across.to?ref=0x210d1C4c1e94c52edd53039190A3eA43C35e9506)
+
+[2. Stargate Finance](https://stargate.finance/)
+
+[3. Orbiter Finance](https://www.orbiter.finance/)
+
+[4. Portal Bridge](https://www.portalbridge.com/#/transfer)
+
+[5. Hop Exchange](https://hop.exchange/)
  
 
 https://www.datawallet.com/crypto/best-crypto-bridges
