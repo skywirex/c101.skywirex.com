@@ -1,6 +1,6 @@
 # Chạy node
 
-Trong thế giới blockchain, thuật ngữ "node" thường được hiểu là một thiết bị hoặc máy tính tham gia vào mạng lưới bằng cách duy trì một bản sao của sổ cái (ledger) của blockchain và thực hiện việc xác minh và chứng thực các giao dịch. Các node đóng một vai trò quan trọng trong hoạt động của mạng blockchain và có thể được phân loại thành các loại khác nhau dựa trên vai trò và trách nhiệm của nó:
+Trong thế giới blockchain, thuật ngữ "node" thường được hiểu là một thiết bị hoặc máy tính tham gia vào mạng lưới bằng cách duy trì một bản sao của sổ cái (ledger) của blockchain để thực hiện việc xác minh và chứng thực các giao dịch. Các node đóng một vai trò quan trọng trong hoạt động của mạng blockchain và có thể được phân loại thành các loại khác nhau dựa trên vai trò và trách nhiệm của nó:
 
 1. **Node Đầy Đủ (Full Nodes):** Đây là loại node phức tạp nhất trong mạng blockchain. Node đầy đủ lưu trữ một bản sao đầy đủ của sổ cái của blockchain và tham gia vào quá trình xác minh và lan truyền các giao dịch và khối mới. Chúng giúp đảm bảo tính toàn vẹn và an ninh của mạng bằng cách độc lập xác minh tất cả các giao dịch.
 
