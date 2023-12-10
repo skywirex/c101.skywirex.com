@@ -1,5 +1,8 @@
 # Nghiên cứu và tìm kèo
 
+
+
+
 Thông thường việc đi tìm kiếm một coin hoặc token tăng giá là việc đi tìm thông tin dòng tiền trong hệ crypo sẽ chảy về đâu. Tiếp theo mới đánh giá ở các phương diện khác
 
 My 10 minute morning routine to supercharge your research:
