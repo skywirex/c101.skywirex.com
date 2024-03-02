@@ -2,7 +2,7 @@
 
 Phạm vi của cuốn sách này viết về tiền điện tử (crypto) có thể thay đổi và đa dạng phụ thuộc vào mục tiêu và chủ đề là đi săn những coin và token tiềm năng nhằm tìm kiếm lợi nhuận trong lĩnh vực này. Dưới đây là một số điểm chính mà bạn có thể tìm thấy ở cuốn sách này:
 
-1. **Giới thiệu cơ bản về tiền điện tử:** Giới thiệu các khái niệm cơ bản về tiền điện tử, ví dụ như blockchain, Bitcoin, và các thuật ngữ quan trọng khác.
+1. **Giới thiệu cơ bản về tiền điện tử:** Giới thiệu các khái niệm cơ bản về tiền điện tử, ví dụ như blockchain, Bitcoin, và các thuật ngữ cơ bản, quan trọng khác.
 
 2. **Lịch sử và phát triển:** Lịch sử của tiền điện tử, bao gồm cả sự phát triển từ Bitcoin đầu tiên cho đến các loại tiền điện tử khác và sự ra đời của các dự án mới.
 
@@ -14,6 +14,6 @@ Phạm vi của cuốn sách này viết về tiền điện tử (crypto) có t
 
 6. **Giao dịch và đầu tư:** Cung cấp hướng dẫn về cách mua, bán tiền điện tử, cũng như các nguy cơ và cơ hội liên quan đến việc giao dịch và đầu tư trong lĩnh vực này.
 
-7. **Vấn đề bảo mật:** Thảo luận về các vấn đề pháp lý liên quan đến cách bảo vệ an toàn thông tin và tài sản tiền điện tử.
+7. **Vấn đề bảo mật:** Thảo luận về các vấn đề liên quan đến cách bảo vệ an toàn thông tin và tài sản tiền điện tử.
 
-8. **Tương lai của tiền điện tử:** Ở đây có thể cung cấp một dự đoán về tương lai của tiền điện tử và cách chúng có thể ảnh hưởng đến ngành công nghiệp và xã hội.
+8. **Tương lai của tiền điện tử:** Tương lai của tiền điện tử và cách chúng có thể ảnh hưởng đến ngành công nghiệp và xã hội.

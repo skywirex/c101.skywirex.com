@@ -17,3 +17,11 @@ Người yêu thích tiền điện tử có thể tìm hiểu về những đ�
 - Làm các nhiệm vụ khi dự án triển khai
 
 Sự tương tác với mỗi dự án là khác nhau và không được thông báo trước khi dự án ra mắt Token. Do đó bạn cần theo dõi sát sao dự án để có những phản hồi sớm nhất. 
+
+Bạn là người mới bắt đầu thì ba Twitter bên dưới là nên theo dõi để thực hiện task và tương tác với các dự án blockchain
+
+- [mztacat](https://x.com/mztacat)
+
+- [asedd72](https://x.com/asedd72)
+
+- [CC2Ventures](https://x.com/CC2Ventures)

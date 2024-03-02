@@ -1,23 +1,31 @@
 # Nghiên cứu và tìm kèo
 
+Thông thường việc đi tìm kiếm một coin hoặc token tăng giá là việc đi tìm thông tin dòng tiền trong hệ crypo sẽ chảy về đâu. Tiếp theo mới đánh giá ở các phương diện khác.
 
 
+Trang kiểm tra gọi vốn, thông tin backer
 
-Thông thường việc đi tìm kiếm một coin hoặc token tăng giá là việc đi tìm thông tin dòng tiền trong hệ crypo sẽ chảy về đâu. Tiếp theo mới đánh giá ở các phương diện khác
+- [cryptorank](https://cryptorank.io/)
 
-My 10 minute morning routine to supercharge your research:
-1. Open 
-@Artemis__xyz
-- Click "Overview" and check trending apps.
-- Click the "Comparables" and compare current L2s performance. 
-2. Check 
-@Crypto_Dealflow
- for recent VC investments. 
-- Add to my running list of upcoming protocols I may want to invest in the future.
-IE: @StoryProtocol  just raised $54M 
-3. Search for outliers on 
-@DefiLlama
- . Here are the tabs I use:
+10 phút ngâm cứu hàng ngày
+
+1. Kiểm tra ứng dụng lên xu hướng
+
+- [Artemis__xyz](https://app.artemis.xyz/chains)
+	- Click "Overview" và kiểm tra ứng dụng chiếm xu hướng.
+	- Click "Comparables" và so sánh các L2 hiện tại.
+
+2. Kiểm tra đầu tư gần đây của các quỹ
+
+- [crypto-fundraising](https://crypto-fundraising.info/)
+	- Thêm vô danh sách cần quan tâm. Ví dụ: @StoryProtocol gọi được $54M
+
+3.Tìm kiếm sự ngoại lệ ở trang DefiLlama
+
+- [defillama](https://defillama.com/)
+
+Search for outliers on @DefiLlama Here are the tabs I use:
+
 - "Unlocks"
 
 See if there are major unlocks coming for any tokens I own.
@@ -36,19 +44,12 @@ Check to see what chains have had a large growth in Stables.
 
 This is a positive indicator of organic TVL growth.
 
-4. Go to 
-@TheDeFinvestor
- and 
-@0xSalazar
- for important daily news and headlines.
+4. Để kiểm tra tin tức quan trọng hàng ngày
 
-5. If I cannot find the data I need, Look on 
-@DuneAnalytics
- and 
-@flipsidecrypto
- or build my own dashboard.
+[TheDeFinvestor](https://twitter.com/TheDeFinvestor) và [0xSalazar](https://twitter.com/0xSalazar)
 
+5. Tìm kiếm dữ liệu on-chain mong muốn
 
+Nếu không tìm thấy dữ liệu mong muốn bạn có thể phải sử dụng đến 
 
-https://twitter.com/Flowslikeosmo/status/1647253470863323136
-
+[DuneAnalytics](https://twitter.com/DuneAnalytics) và [flipsidecrypto](https://twitter.com/flipsidecrypto)

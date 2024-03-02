@@ -1,6 +1,17 @@
 # Chạy node
 
-Trong thế giới blockchain, thuật ngữ "node" thường được hiểu là một thiết bị hoặc máy tính tham gia vào mạng lưới bằng cách duy trì một bản sao của sổ cái (ledger) của blockchain để thực hiện việc xác minh và chứng thực các giao dịch. Các node đóng một vai trò quan trọng trong hoạt động của mạng blockchain và có thể được phân loại thành các loại khác nhau dựa trên vai trò và trách nhiệm của nó:
+Trong thế giới blockchain, thuật ngữ "node" thường được hiểu là một thiết bị hoặc máy tính tham gia vào mạng lưới bằng cách duy trì một bản sao của sổ cái (ledger) của blockchain để thực hiện việc xác minh và chứng thực các giao dịch. Các node hợp tác để duy trì tính phi tập trung và độ tin cậy của mạng blockchain. Bằng cách phân phối sổ cái và trách nhiệm về sự đồng thuận qua một mạng các node, công nghệ blockchain đảm bảo tính minh bạch, an ninh và chống lại sự kiểm soát tập trung hoặc kiểm soát đơn lẻ.
+
+Thông thường để cài đặt và vận hành một node, bạn cần có kiến thức sau:
+
+- Sử dụng Linux thông thạo bằng dòng lệnh (CLI)
+- Docker để triển khai nhanh một node
+- Quan trắc node bằng Prometheus
+
+Ở phần chạy node các bài viết sẽ được tập trung ở các mục tiêu trên.
+
+Các node đóng một vai trò quan trọng trong hoạt động của mạng blockchain và có thể được phân loại thành các loại khác nhau dựa trên vai trò và trách nhiệm của 
+nó:
 
 1. **Node Đầy Đủ (Full Nodes):** Đây là loại node phức tạp nhất trong mạng blockchain. Node đầy đủ lưu trữ một bản sao đầy đủ của sổ cái của blockchain và tham gia vào quá trình xác minh và lan truyền các giao dịch và khối mới. Chúng giúp đảm bảo tính toàn vẹn và an ninh của mạng bằng cách độc lập xác minh tất cả các giao dịch.
 
@@ -12,14 +23,4 @@ Trong thế giới blockchain, thuật ngữ "node" thường được hiểu l�
 
 5. **Node Giống Hạt (Seed Nodes):** Node giống hạt rất quan trọng cho việc thiết lập và đồng bộ hóa các node mới trên mạng. Chúng lưu trữ một danh sách các node hoạt động và giúp các node mới khám phá và kết nối với mạng.
 
-6. **Node Giảm Kích Thước (Pruned Nodes):** Các node giảm kích thước chỉ lưu trữ một phần của lịch sử của blockchain, thường chỉ lưu giữ các giao dịch và khối mới nhất. Điều này giảm yêu cầu về lưu trữ trong khi vẫn cho phép xác minh giao dịch.
-
-Các node hợp tác để duy trì tính phi tập trung và độ tin cậy của mạng blockchain. Bằng cách phân phối sổ cái và trách nhiệm về sự đồng thuận qua một mạng các node, công nghệ blockchain đảm bảo tính minh bạch, an ninh và chống lại sự kiểm soát tập trung hoặc kiểm soát đơn lẻ.
-
-Thông thường để cài đặt và vận hành một node, bạn cần có kiến thức sau:
-
-- Sử dụng Linux thông thạo bằng dòng lệnh (CLI).
-- Docker để triển khai nhanh một node.
-- Quan trắc node bằng Prometheus.
-
-Ở phần chạy node các bài viết sẽ được tập trung ở các mục tiêu trên.
+6. **Node Tinh Giảm (Pruned Nodes):** Các node giảm kích thước chỉ lưu trữ một phần của lịch sử của blockchain, thường chỉ lưu giữ các giao dịch và khối mới nhất. Điều này giảm yêu cầu về lưu trữ trong khi vẫn cho phép xác minh giao dịch.
