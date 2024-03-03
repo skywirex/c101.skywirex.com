@@ -8,6 +8,7 @@
 - [Công cụ](./03-cong-cu.md)
 	- [Tài khoản trực tuyến](./03-cong-cu/01-tai-khoan.md)
 	- [Ví](./03-cong-cu/02-vi.md)
+	- [An toàn trực tuyến](./03-cong-cu/03-an-toan.md)
 - [Tìm hiểu về blockchain](./04-tim-hieu-ve-blockchain.md)
 - [Retro Airdrop](./05-retro-airdrop.md)
 - [Node](./06-node.md)
