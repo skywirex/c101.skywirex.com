@@ -1,3 +1,3 @@
 # An toàn trực tuyến
 
-Extension bảo vệ an toàn trực tuyến: https://join.pocketuniverse.app/
+Extension bảo vệ an toàn trực tuyến: [pocketuniverse](https://join.pocketuniverse.app/ref/UUR1)

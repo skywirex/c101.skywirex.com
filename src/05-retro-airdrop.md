@@ -25,3 +25,6 @@ Bạn là người mới bắt đầu thì ba Twitter bên dưới là nên theo
 - [asedd72](https://x.com/asedd72)
 
 - [CC2Ventures](https://x.com/CC2Ventures)
+
+
+Hỗ trợ deploy contract [remix](https://remix.ethereum.org/)

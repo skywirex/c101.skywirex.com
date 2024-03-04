@@ -7,7 +7,7 @@ Blockchain là một cuốn sổ cái (ledger) được lưu trữ phi tập tru
 
 Tham khảo thêm
 
-https://online.stanford.edu/how-does-blockchain-work
+[how-does-blockchain-work](https://online.stanford.edu/how-does-blockchain-work)
 
 
-https://www.investopedia.com/terms/b/blockchain.asp
+[blockchain](https://www.investopedia.com/terms/b/blockchain.asp)

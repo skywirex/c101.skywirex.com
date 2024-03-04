@@ -7,41 +7,67 @@ CryptoRank là một nền tảng thông tin và phân tích thị trường ti�
 Có thể dùng trang này để săn GEM --> https://bigtrade.vn/boi-cung-ca-map-4-theo-doi-cac-quy-dau-tu-n208.html
 
 
+USDC trên các chain: [usdc.cool](https://usdc.cool/)
+
+Dòng tiền chảy trên các hệ [cryptoflows.info](https://cryptoflows.info/)
+
+
 Link Faucet testnet (vui lòng báo link hỏng ở Telegram hoặc Discord)
 
 
 Ethereum goerli testnet faucet
 1.... https://faucet.goerli.mudit.blog/
+
 2.... https://goerlifaucet.com/
+
 3.... https://goerli-faucet.slock.it/
+
 4..... https://faucets.chain.link/goerli
+
 5.... https://faucet.polygon.technology/
+
 6.... https://app.mycrypto.com/faucet
+
 7... https://staging.aave.com/faucet/
+
 8.... https://faucet.triangleplatform.com/ethereum/goerli
+
 9... https://zk.link/app/faucet/l1
+
 10... https://faucets.chain.link/
+
 11... https://www.allthatnode.com/faucet/ethereum.dsrv
+
 12.... https://faucet.paradigm.xyz/
 
 
 Ethereum kovan testnet faucet
 1... https://faucets.chain.link/kovan
+
 2... https://t.me/bitsznbot
+
 3... https://app.mycrypto.com/faucet
+
 4... https://gitter.im/kovan-testnet/faucet#
 
 Ethereum ropsten testnet faucet
 1... https://faucet.dimensions.network/
+
 2... https://faucet.egorfine.com/
+
 3... https://t.me/bitsznbot
+
 4.. https://app.mycrypto.com/faucet
 
 Ethereum rinkeby testnet faucet
 https://rinkebyfaucet.com/
+
 https://faucet.rinkeby.io/
+
 https://faucets.chain.link/rinkeby
+
 https://app.mycrypto.com/faucet
+
 https://t.me/bitsznbot
 
 Polygon mainnet faucet
@@ -49,9 +75,13 @@ https://www.gimlu.com/faucet
 
 Polygon mumbai testnet faucet
 https://mumbaifaucet.com/
+
 https://testmatic.vercel.app/
+
 https://faucet.polygon.technology/
+
 https://faucet.dsolutions.mn/
+
 https://t.me/bitsznbot
 
 Binance smart chain testnet faucet
@@ -68,9 +98,13 @@ https://aurora.dev/faucet
 
 Bitcoin testnet faucet
 https://tbtc.bitaps.com/
+
 https://testnet-faucet.mempool.co/
+
 https://bitcoinfaucet.uo1.net/
+
 https://kuttler.eu/en/bitcoin/btc/faucet/
+
 https://coinfaucet.eu/en/btc-testnet/
 
 Bitcoin cash testnet faucet
@@ -105,7 +139,9 @@ https://faucet.fantom.network/
 
 Algorand testnet faucet
 https://bank.testnet.algorand.network/
+
 https://dispenser.testnet.aws.algodev.network/
+
 https://testnet.algoexplorer.io/dispenser
 
 Harmony one testnet faucet
@@ -152,5 +188,7 @@ https://sepolia-faucet.pk910.de/
 ❤️Faucet tBNB testnet
 
 https://testnet.bnbchain.org/faucet-smart
+
 https://labs.zetachain.com/swap
+
 https://testnet.cashmere.exchange/swap
