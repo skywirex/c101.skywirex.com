@@ -18,7 +18,7 @@ Tất cả những kiến thức này được tổng hợp từ kinh nghiệm c
 	---- chứa các dự án đang theo đuổi và làm retro bao gồm các task được với hướng dẫn
 - NODE:
 	---- Chạy node cho các dự án để có cơ hội nhận được token
-- CRYPTO TRADING
+- TRADING
 	---- Chiến thuật, quản lý vốn cũng như các thảo luận về đầu tư CRYPTO để có xác xuất ăn market cao nhất
 - ARCHIVE
 	---- Lưu trữ những dự án đã qua và những dự án không theo dõi nữa
