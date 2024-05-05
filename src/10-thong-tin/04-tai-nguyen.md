@@ -12,63 +12,31 @@ USDC trên các chain: [usdc.cool](https://usdc.cool/)
 Dòng tiền chảy trên các hệ [cryptoflows.info](https://cryptoflows.info/)
 
 
+https://docs.openzeppelin.com/
+
+
 Link Faucet testnet (vui lòng báo link hỏng ở Telegram hoặc Discord)
 
+➡️Link Faucet $ETH 
 
-Ethereum goerli testnet faucet
-1.... https://faucet.goerli.mudit.blog/
+- HOLESKY
 
-2.... https://goerlifaucet.com/
+- SEPOLIA
 
-3.... https://goerli-faucet.slock.it/
+https://www.infura.io/faucet/sepolia
 
-4..... https://faucets.chain.link/goerli
+https://sepoliafaucet.com/
 
-5.... https://faucet.polygon.technology/
+https://sepolia-faucet.pk910.de/
 
-6.... https://app.mycrypto.com/faucet
+https://fauceth.komputing.org/
 
-7... https://staging.aave.com/faucet/
+https://sepoliafaucet.net/
 
-8.... https://faucet.triangleplatform.com/ethereum/goerli
+https://sepolia-faucet.pk910.de/
 
-9... https://zk.link/app/faucet/l1
+https://www.infura.io/faucet
 
-10... https://faucets.chain.link/
-
-11... https://www.allthatnode.com/faucet/ethereum.dsrv
-
-12.... https://faucet.paradigm.xyz/
-
-
-Ethereum kovan testnet faucet
-1... https://faucets.chain.link/kovan
-
-2... https://t.me/bitsznbot
-
-3... https://app.mycrypto.com/faucet
-
-4... https://gitter.im/kovan-testnet/faucet#
-
-Ethereum ropsten testnet faucet
-1... https://faucet.dimensions.network/
-
-2... https://faucet.egorfine.com/
-
-3... https://t.me/bitsznbot
-
-4.. https://app.mycrypto.com/faucet
-
-Ethereum rinkeby testnet faucet
-https://rinkebyfaucet.com/
-
-https://faucet.rinkeby.io/
-
-https://faucets.chain.link/rinkeby
-
-https://app.mycrypto.com/faucet
-
-https://t.me/bitsznbot
 
 Polygon mainnet faucet
 https://www.gimlu.com/faucet
@@ -85,18 +53,23 @@ https://faucet.dsolutions.mn/
 https://t.me/bitsznbot
 
 Binance smart chain testnet faucet
+
 https://testnet.binance.org/faucet-smart
 
 Avalanche fuji testnet faucet
+
 https://faucet.avax-test.network/
 
 Solana Devnet and testnet faucet
+
 https://solfaucet.com/
 
 Aurora testnet faucet
+
 https://aurora.dev/faucet
 
 Bitcoin testnet faucet
+
 https://tbtc.bitaps.com/
 
 https://testnet-faucet.mempool.co/
@@ -177,18 +150,15 @@ https://faucet.comdex.one/
 Multiple chain faucet from paradigm
 https://faucet.paradigm.xyz/
 
-➡️Link Faucet $ETH mạng sepolia
-
-https://www.infura.io/faucet/sepolia
-
-https://sepoliafaucet.com/
-
-https://sepolia-faucet.pk910.de/
-
-❤️Faucet tBNB testnet
+Faucet tBNB testnet
 
 https://testnet.bnbchain.org/faucet-smart
 
 https://labs.zetachain.com/swap
 
 https://testnet.cashmere.exchange/swap
+
+
+MORE:
+
+https://github.com/arddluma/awesome-list-testnet-faucets
