@@ -2,6 +2,8 @@
 
    [• Lastpass](https://lastpass.com/)
 
+   - Đối với các tài khoản chính, Lastpass có thể sử dụng để lưu 1 nửa số kí tự của seed, nửa còn lại nên viết ra giấy hoặc lưu đâu đó. Các kí tự của seed nên được lưu backup ở 3 nơi.
+
    [• Tài khoản Dropbox](https://drop.com/)
 
    [• Tài khoản Telegram](https://telegram.org/)
