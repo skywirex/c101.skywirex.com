@@ -26,4 +26,5 @@
 	- [Twitter nên theo dõi](./10-thong-tin/01-twitter.md)
 	- [Các quỹ đầu tư lớn](./10-thong-tin/02-quy-dau-tu.md)
 	- [Người ảnh hưởng](./10-thong-tin/03-nguoi-anh-huong.md)
-	- [Tài nguyên](./10-thong-tin/04-tai-nguyen.md)
+	- [Faucet](./10-thong-tin/04-faucet.md)
+	- [Tài nguyên](./10-thong-tin/05-tai-nguyen.md)
