@@ -13,7 +13,7 @@ Chúng ta cần một cầu nối blockchain để khám phá các hệ sinh th�
 
 ### Một số cầu nối thông dụng 
 
-Sử dụng và lựa chọn một trong những cầu nối bên dưới, kiểm tra fee trước khi sử dụng cầu
+Sử dụng và lựa chọn một trong những cầu nối bên dưới, nên kiểm tra fee trước khi sử dụng cầu
 
 [1. Across Protocol](https://across.to?ref=0x210d1C4c1e94c52edd53039190A3eA43C35e9506)
 
@@ -25,13 +25,10 @@ Sử dụng và lựa chọn một trong những cầu nối bên dưới, kiể
 
 [5. Hop Exchange](https://hop.exchange/)
 
-Swap xuyên chuỗi 
+### Swap xuyên chuỗi
 
-- XSWAP sử dụng CCIP của Chainlink
-
-[1. https://xswap.link/](xswap.link/swap?ref=1sycrx)
-
+[1. https://xswap.link/](https://xswap.link/swap?ref=1sycrx) | XSWAP sử dụng CCIP của Chainlink
 
 Tham khảo thêm: 
 
-[datawallet](https://www.datawallet.com/crypto/best-crypto-bridges)
+- [datawallet](https://www.datawallet.com/crypto/best-crypto-bridges)
