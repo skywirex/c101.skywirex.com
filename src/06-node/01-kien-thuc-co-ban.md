@@ -1,10 +1,10 @@
 # Kiến thức cơ bản
 
-Kiến thức cơ bản về dòng lệnh Linux là quan trọng đối với bất kỳ ai làm việc với hệ thống Linux hoặc các hệ thống dựa trên Unix. Nó giúp bạn duyệt qua hệ thống tập tin, thực hiện các công việc và quản lý hệ thống của bạn một cách hiệu quả. 
+Kiến thức cơ bản về dòng lệnh Linux là quan trọng đối với bất kỳ ai làm việc với hệ thống Linux hoặc các hệ thống dựa trên Unix. Nó giúp bạn thực hiện các công việc và quản lý hệ thống của bạn một cách hiệu quả. 
 
-Để học căn bản và từ đầu bạn nên tham khảo bài bài học ở link bên dưới. Nó rất tuyệt vời!
+**Để học căn bản và từ đầu bạn nên tham khảo bài bài học ở link bên dưới. Nó rất tuyệt vời!**
 
-https://ryanstutorials.net/linuxtutorial/
+[ryanstutorials](https://ryanstutorials.net/linuxtutorial/)
 
 
 Sơ qua dưới đây là một số khái niệm và lệnh cơ bản của dòng lệnh Linux:

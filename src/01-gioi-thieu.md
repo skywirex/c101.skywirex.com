@@ -25,12 +25,12 @@ Tất cả những kiến thức này được tổng hợp từ kinh nghiệm c
 
 Lưu ý:
 
-- Nếu bạn không đủ kiên nhẫn để theo thị trường ít nhất 1 chu kì crypto (khoảng 4 năm) thì không nên đọc tiếp cuốn sách này
+- Nếu bạn không đủ kiên nhẫn để theo thị trường ít nhất 1 chu kì crypto (khoảng 4 năm) thì không nên đọc tiếp cuốn sách này.
 
-- Cuốn sách này đã phần cung cấp những từ khoá, nếu đọc không hiểu có thể sử dụng google để tìm kiếm thêm thông tin. Kiếm tiền ở bất kì lĩnh vực nào cũng cần đòi hỏi sự tổng hợp các kĩ năng cơ bản.
+- Cuốn sách này đa phần cung cấp những từ khoá, nếu đọc không hiểu có thể sử dụng google để tìm kiếm thêm thông tin.
 
-- Cuốn sách này chưa được hoàn thiện và sẽ được cập nhật thường xuyên dựa trên kinh nghiệm của người viết.
+- Cuốn sách này rất sơ khai, chưa được hoàn thiện và sẽ được cập nhật thường xuyên dựa trên kinh nghiệm của người viết.
 
 - Cuốn sách này được viết bởi phần mềm [mdBook](https://github.com/rust-lang/mdBook)
 
-- Bản cập nhật sau cùng 20240302
+**Bản cập nhật 20240512**

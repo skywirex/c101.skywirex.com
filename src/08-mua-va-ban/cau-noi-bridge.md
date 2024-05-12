@@ -16,6 +16,8 @@ Sử dụng và lựa chọn một trong những cầu nối bên dưới, nên 
 
    - [Stargate Finance](https://stargate.finance/)
 
+   - [Transporter.io](https://www.transporter.io/) || by @chainlink CCIP
+
    - [Orbiter Finance](https://www.orbiter.finance/)
 
    - [Portal Bridge](https://www.portalbridge.com/#/transfer)
@@ -24,7 +26,7 @@ Sử dụng và lựa chọn một trong những cầu nối bên dưới, nên 
 
 ### Swap xuyên chuỗi
 
-   - [https://xswap.link/](https://xswap.link/swap?ref=1sycrx) | XSWAP sử dụng CCIP của Chainlink
+   - [https://xswap.link/](https://xswap.link/swap?ref=1sycrx) || by @chainlink CCIP
 
 Tham khảo: 
 
