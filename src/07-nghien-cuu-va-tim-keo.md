@@ -3,24 +3,35 @@
 Thông thường việc đi tìm kiếm một coin hoặc token tăng giá là việc đi tìm thông tin dòng tiền trong hệ crypo sẽ chảy về đâu. Tiếp theo mới đánh giá ở các phương diện khác.
 
 
-Trang kiểm tra gọi vốn, thông tin backer
+[Crypto fundraising](https://crypto-fundraising.info/) || cho khái quát thông tin gọi vốn để thêm vô danh sách cần quan tâm. Ví dụ: @StoryProtocol gọi được $54M
 
-- [cryptorank](https://cryptorank.io/)
+[Cryptorank](https://cryptorank.io) || Cung cấp nhiều thông tin cụ thể. 
 
-10 phút ngâm cứu hàng ngày
+- Theo vòng gọi vốn https://cryptorank.io/funding-rounds
 
-1. Kiểm tra ứng dụng lên xu hướng
+- Theo Tags https://cryptorank.io/tags
+
+Phân loại thoe các tag sẵn có, có thể tìm dự án cùng loại muốn tìm kiếm. VD muốn chạy Node; vào tag Node
+
+- Theo Funds và Investors https://cryptorank.io/funds
+
+- Theo Categories: https://cryptorank.io/categories
+
+Phân loại theo từng danh mục lớn trong crypto, ae có thể filter theo danh mục mình quan tâm VD dự án theo trend AI là những dự án nào.
+Có thể ae cho rằng lọc vậy lên Coinmarketcap hoặc Coingecko cũng có thì xin nói rõ là Cryptorank có cả những dự án chưa Mainnet, chưa có token nên ae có thể tìm và follow dự án từ sớm. 
+
+[Cryptohunter](https://www.cypherhunter.com/en/discover/) Một vài dự án có nhiều thông tin chi tiết cụ thể hơn có thể tìm thấy tại crypto hunter
+
+[Dropstab](https://dropstab.com/) Toàn bộ thông tin của một dự án từ vòng gọi vốn, tokenomic, vesting, list sàn nào,... 
+
+
+Kiểm tra ứng dụng lên xu hướng
 
 - [Artemis__xyz](https://app.artemis.xyz/chains)
 	- Click "Overview" và kiểm tra ứng dụng chiếm xu hướng.
 	- Click "Comparables" và so sánh các L2 hiện tại.
 
-2. Kiểm tra đầu tư gần đây của các quỹ
-
-- [crypto-fundraising](https://crypto-fundraising.info/)
-	- Thêm vô danh sách cần quan tâm. Ví dụ: @StoryProtocol gọi được $54M
-
-3.Tìm kiếm sự ngoại lệ ở trang DefiLlama
+Tìm kiếm sự ngoại lệ ở trang DefiLlama
 
 - [defillama](https://defillama.com/)
 
@@ -44,11 +55,10 @@ Check to see what chains have had a large growth in Stables.
 
 This is a positive indicator of organic TVL growth.
 
-4. Để kiểm tra tin tức quan trọng hàng ngày
-
+Để kiểm tra tin tức quan trọng hàng ngày
 [TheDeFinvestor](https://twitter.com/TheDeFinvestor) và [0xSalazar](https://twitter.com/0xSalazar)
 
-5. Tìm kiếm dữ liệu on-chain mong muốn
+Tìm kiếm dữ liệu on-chain mong muốn
 
 Nếu không tìm thấy dữ liệu mong muốn bạn có thể phải sử dụng đến 
 
