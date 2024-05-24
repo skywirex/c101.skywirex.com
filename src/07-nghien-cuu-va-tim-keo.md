@@ -2,7 +2,6 @@
 
 Thông thường việc đi tìm kiếm một coin hoặc token tăng giá là việc đi tìm thông tin dòng tiền trong hệ crypo sẽ chảy về đâu. Tiếp theo mới đánh giá ở các phương diện khác.
 
-
 [Crypto fundraising](https://crypto-fundraising.info/) || cho khái quát thông tin gọi vốn để thêm vô danh sách cần quan tâm. Ví dụ: @StoryProtocol gọi được $54M
 
 [Cryptorank](https://cryptorank.io) || Cung cấp nhiều thông tin cụ thể. 

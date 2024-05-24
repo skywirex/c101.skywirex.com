@@ -53,26 +53,7 @@ Aurora testnet faucet
 
 https://aurora.dev/faucet
 
-Bitcoin testnet faucet
 
-https://tbtc.bitaps.com/
-
-https://testnet-faucet.mempool.co/
-
-https://bitcoinfaucet.uo1.net/
-
-https://kuttler.eu/en/bitcoin/btc/faucet/
-
-https://coinfaucet.eu/en/btc-testnet/
-
-Bitcoin cash testnet faucet
-https://tbch.googol.cash/
-
-Litecoin testnet faucet
-https://testnet-faucet.com/ltc-testnet/
-
-Dogecoin testnet faucet
-https://testnet-faucet.com/doge-testnet/
 
 Tron testnet faucet
 https://nileex.io/join/getJoinPage
@@ -143,6 +124,30 @@ https://labs.zetachain.com/swap
 
 https://testnet.cashmere.exchange/swap
 
+##### Bitcoin testnet faucet
+
+https://signetfaucet.bublina.eu.org/
+
+https://signetfaucet.com/
+
+https://tbtc.bitaps.com/
+
+https://testnet-faucet.mempool.co/
+
+https://bitcoinfaucet.uo1.net/
+
+https://kuttler.eu/en/bitcoin/btc/faucet/
+
+https://coinfaucet.eu/en/btc-testnet/
+
+Bitcoin cash testnet faucet
+https://tbch.googol.cash/
+
+Litecoin testnet faucet
+https://testnet-faucet.com/ltc-testnet/
+
+Dogecoin testnet faucet
+https://testnet-faucet.com/doge-testnet/
 
 MORE:
 
