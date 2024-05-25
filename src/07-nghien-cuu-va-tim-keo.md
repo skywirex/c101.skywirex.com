@@ -2,19 +2,17 @@
 
 Thông thường việc đi tìm kiếm một coin hoặc token tăng giá là việc đi tìm thông tin dòng tiền trong hệ crypo sẽ chảy về đâu. Tiếp theo mới đánh giá ở các phương diện khác.
 
-[Crypto fundraising](https://crypto-fundraising.info/) || cho khái quát thông tin gọi vốn để thêm vô danh sách cần quan tâm. Ví dụ: @StoryProtocol gọi được $54M
+[Crypto fundraising](https://crypto-fundraising.info/) 👉 thông tin gọi vốn tổng quan. Ví dụ: @StoryProtocol gọi được $54M
 
-[Cryptorank](https://cryptorank.io) || Cung cấp nhiều thông tin cụ thể. 
+[Cryptorank](https://cryptorank.io)  👉 Cung cấp nhiều thông tin cụ thể sau khi có thông tin tổng quan. 
 
-- Theo vòng gọi vốn https://cryptorank.io/funding-rounds
+   - Theo vòng gọi vốn https://cryptorank.io/funding-rounds
+   
+   - Theo Tags https://cryptorank.io/tags --> Phân loại theo các tag sẵn có. VD muốn chạy Node; vào tag Node
 
-- Theo Tags https://cryptorank.io/tags
+   - Theo Funds và Investors https://cryptorank.io/funds
 
-Phân loại thoe các tag sẵn có, có thể tìm dự án cùng loại muốn tìm kiếm. VD muốn chạy Node; vào tag Node
-
-- Theo Funds và Investors https://cryptorank.io/funds
-
-- Theo Categories: https://cryptorank.io/categories
+   - Theo Categories: https://cryptorank.io/categories
 
 Phân loại theo từng danh mục lớn trong crypto, ae có thể filter theo danh mục mình quan tâm VD dự án theo trend AI là những dự án nào.
 Có thể ae cho rằng lọc vậy lên Coinmarketcap hoặc Coingecko cũng có thì xin nói rõ là Cryptorank có cả những dự án chưa Mainnet, chưa có token nên ae có thể tìm và follow dự án từ sớm. 
