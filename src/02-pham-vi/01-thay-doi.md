@@ -1,4 +1,4 @@
-# Thay đổi suy nghĩ
+# Thay đổi
 
 Như nhiều việc khác trong cuộc sống, hãy bắt đầu cuộc hành trình Airdrop bằng việc thay đổi nhận thức về nó. Điều này có nghĩa là bạn có thể mất một ít tiền, trải qua những lúc phải trả phí giao dịch trên mạng mà không nhận được gì đáng kể đổi lại. Đó là một sự thật mà chúng ta phải chấp nhận.
 

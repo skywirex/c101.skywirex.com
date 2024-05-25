@@ -2,7 +2,7 @@
 
 - [Giới thiệu](./01-gioi-thieu.md)
 - [Phạm vi](./02-pham-vi.md)
-	- [Thay đổi suy nghĩ](./02-pham-vi/01-thay-doi.md)
+	- [Thay đổi](./02-pham-vi/01-thay-doi.md)
 	- [Lý thuyết](./02-pham-vi/02-ly-thuyet.md)
 	- [Thực hành](./02-pham-vi/03-thuc-hanh.md)
 - [Công cụ](./03-cong-cu.md)

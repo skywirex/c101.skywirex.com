@@ -2,9 +2,9 @@
 
 Thông thường việc đi tìm kiếm một coin hoặc token tăng giá là việc đi tìm thông tin dòng tiền trong hệ crypo sẽ chảy về đâu. Tiếp theo mới đánh giá ở các phương diện khác.
 
-[Crypto fundraising](https://crypto-fundraising.info/) 👉 thông tin gọi vốn tổng quan. Ví dụ: @StoryProtocol gọi được $54M
+[Crypto fundraising](https://crypto-fundraising.info/)<base target="_blank"> 👉 thông tin gọi vốn tổng quan. Ví dụ: @StoryProtocol gọi được $54M
 
-[Cryptorank](https://cryptorank.io)  👉 Cung cấp nhiều thông tin cụ thể sau khi có thông tin tổng quan. 
+[Cryptorank](https://cryptorank.io)<base target="_blank">  👉 Cung cấp nhiều thông tin cụ thể sau khi có thông tin tổng quan. 
 
    - Theo vòng gọi vốn https://cryptorank.io/funding-rounds
    
@@ -17,20 +17,21 @@ Thông thường việc đi tìm kiếm một coin hoặc token tăng giá là v
 Phân loại theo từng danh mục lớn trong crypto, ae có thể filter theo danh mục mình quan tâm VD dự án theo trend AI là những dự án nào.
 Có thể ae cho rằng lọc vậy lên Coinmarketcap hoặc Coingecko cũng có thì xin nói rõ là Cryptorank có cả những dự án chưa Mainnet, chưa có token nên ae có thể tìm và follow dự án từ sớm. 
 
-[Cryptohunter](https://www.cypherhunter.com/en/discover/) Một vài dự án có nhiều thông tin chi tiết cụ thể hơn có thể tìm thấy tại crypto hunter
+[Cryptohunter](https://www.cypherhunter.com/en/discover/)<base target="_blank"> Một vài dự án có nhiều thông tin chi tiết cụ thể hơn có thể tìm thấy tại crypto hunter
 
-[Dropstab](https://dropstab.com/) Toàn bộ thông tin của một dự án từ vòng gọi vốn, tokenomic, vesting, list sàn nào,... 
+[Dropstab](https://dropstab.com/)<base target="_blank"> Toàn bộ thông tin của một dự án từ vòng gọi vốn, tokenomic, vesting, list sàn nào,... 
 
 
 Kiểm tra ứng dụng lên xu hướng
 
-- [Artemis__xyz](https://app.artemis.xyz/chains)
+- [Artemis__xyz](https://app.artemis.xyz/chains)<base target="_blank">
+
 	- Click "Overview" và kiểm tra ứng dụng chiếm xu hướng.
 	- Click "Comparables" và so sánh các L2 hiện tại.
 
 Tìm kiếm sự ngoại lệ ở trang DefiLlama
 
-- [defillama](https://defillama.com/)
+- [defillama](https://defillama.com/)<base target="_blank">
 
 Search for outliers on @DefiLlama Here are the tabs I use:
 
@@ -59,4 +60,4 @@ Tìm kiếm dữ liệu on-chain mong muốn
 
 Nếu không tìm thấy dữ liệu mong muốn bạn có thể phải sử dụng đến 
 
-[DuneAnalytics](https://twitter.com/DuneAnalytics) và [flipsidecrypto](https://twitter.com/flipsidecrypto)
+[DuneAnalytics](https://twitter.com/DuneAnalytics)<base target="_blank"> và [flipsidecrypto](https://twitter.com/flipsidecrypto)<base target="_blank">
