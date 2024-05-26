@@ -1,6 +1,6 @@
-# Phạm vi
+# Tổng quan
 
-Phạm vi của cuốn sách này viết về tiền điện tử (crypto) có thể thay đổi và đa dạng phụ thuộc vào mục tiêu và chủ đề là đi săn những coin và token tiềm năng nhằm tìm kiếm lợi nhuận trong lĩnh vực này. Dưới đây là một số điểm chính mà bạn có thể tìm thấy ở cuốn sách này:
+Cuốn sách này viết về tiền điện tử (crypto) có thể thay đổi và đa dạng phụ thuộc vào mục tiêu và chủ đề là đi săn những coin và token tiềm năng nhằm tìm kiếm lợi nhuận trong lĩnh vực này. Dưới đây là một số điểm chính mà bạn có thể tìm thấy ở cuốn sách này:
 
 1. **Giới thiệu cơ bản về tiền điện tử:** Giới thiệu các khái niệm cơ bản về tiền điện tử, ví dụ như blockchain, Bitcoin, và các thuật ngữ cơ bản, quan trọng khác.
 

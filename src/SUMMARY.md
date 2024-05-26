@@ -1,10 +1,10 @@
 # MỤC LỤC
 
 - [Giới thiệu](./01-gioi-thieu.md)
-- [Phạm vi](./02-pham-vi.md)
-	- [Thay đổi](./02-pham-vi/01-thay-doi.md)
-	- [Lý thuyết](./02-pham-vi/02-ly-thuyet.md)
-	- [Thực hành](./02-pham-vi/03-thuc-hanh.md)
+- [Tổng quan](./02-tong-quan.md)
+	- [Thay đổi](./02-tong-quan/01-thay-doi.md)
+	- [Lý thuyết](./02-tong-quan/02-ly-thuyet.md)
+	- [Thực hành](./02-tong-quan/03-thuc-hanh.md)
 - [Công cụ](./03-cong-cu.md)
 	- [Tài khoản trực tuyến](./03-cong-cu/01-tai-khoan.md)
 	- [Ví](./03-cong-cu/02-vi.md)
