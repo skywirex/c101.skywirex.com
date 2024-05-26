@@ -8,8 +8,10 @@ Có thể dùng trang này để săn GEM --> https://bigtrade.vn/boi-cung-ca-ma
 
    - [vfat.tools](https://vfat.tools/)
 
-   - [usdc.cool](https://usdc.cool/) || USDC trên các chain
+   - [usdc.cool](https://usdc.cool/) | USDC trên các chain
 
-   - [cryptoflows.info](https://cryptoflows.info/) || Dòng tiền chảy trên các hệ [cryptoflows.info]()
+   - [cryptoflows.info](https://cryptoflows.info/) | Dòng tiền chảy trên các hệ [cryptoflows.info]()
 
    - [openzeppelin.com](https://docs.openzeppelin.com/) 
+
+   - [remix](https://remix.ethereum.org/) | Hỗ trợ deploy contract
