@@ -12,6 +12,8 @@ Chúng ta cần một cầu nối blockchain để khám phá các hệ sinh th�
 
 Sử dụng và lựa chọn một trong những cầu nối bên dưới, nên kiểm tra fee trước khi sử dụng cầu
 
+   - [Bungee Exchange](https://www.bungee.exchange/)
+
    - [Across Protocol](https://across.to?ref=0x210d1C4c1e94c52edd53039190A3eA43C35e9506)
 
    - [Stargate Finance](https://stargate.finance/)
