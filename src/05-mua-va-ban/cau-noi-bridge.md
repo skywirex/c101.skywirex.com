@@ -12,24 +12,24 @@ Chúng ta cần một cầu nối blockchain để khám phá các hệ sinh th�
 
 Sử dụng và lựa chọn một trong những cầu nối bên dưới, nên kiểm tra fee trước khi sử dụng cầu
 
-   - [Bungee Exchange](https://www.bungee.exchange/)
+   - [Bungee Exchange](https://www.bungee.exchange/)<base target="_blank">
 
-   - [Across Protocol](https://across.to?ref=0x210d1C4c1e94c52edd53039190A3eA43C35e9506)
+   - [Across Protocol](https://across.to?ref=0x210d1C4c1e94c52edd53039190A3eA43C35e9506)<base target="_blank">
 
-   - [Stargate Finance](https://stargate.finance/)
+   - [Stargate Finance](https://stargate.finance/)<base target="_blank">
 
-   - [Transporter.io](https://www.transporter.io/) || by @chainlink CCIP
+   - [Transporter.io](https://www.transporter.io/)<base target="_blank"> | by @chainlink CCIP
 
-   - [Orbiter Finance](https://www.orbiter.finance/)
+   - [Orbiter Finance](https://www.orbiter.finance/)<base target="_blank">
 
-   - [Portal Bridge](https://www.portalbridge.com/#/transfer)
+   - [Portal Bridge](https://www.portalbridge.com/#/transfer)<base target="_blank">
 
-   - [Hop Exchange](https://hop.exchange/)
+   - [Hop Exchange](https://hop.exchange/)<base target="_blank">
 
 ### Swap xuyên chuỗi
 
-   - [https://xswap.link/](https://xswap.link/swap?ref=1sycrx) || by @chainlink CCIP
+   - [https://xswap.link/](https://xswap.link/swap?ref=1sycrx)<base target="_blank"> | by @chainlink CCIP
 
 Tham khảo: 
 
-   - [datawallet](https://www.datawallet.com/crypto/best-crypto-bridges)
+   - [datawallet](https://www.datawallet.com/crypto/best-crypto-bridges)<base target="_blank">
