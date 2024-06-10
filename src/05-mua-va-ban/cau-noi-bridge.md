@@ -30,6 +30,15 @@ Sử dụng và lựa chọn một trong những cầu nối bên dưới, nên 
 
    - [https://xswap.link/](https://xswap.link/swap?ref=1sycrx)<base target="_blank"> | by @chainlink CCIP
 
-Tham khảo: 
+### DEX Aggregator
 
-   - [datawallet](https://www.datawallet.com/crypto/best-crypto-bridges)<base target="_blank">
+DEX Aggregator là một công cụ cho sàn giao dịch phi tập trung hoạt động bằng công nghệ blockchain. Nó thu thập dữ liệu từ các DEX khác nhau và hợp nhất thông tin này trên nền tảng của nó. Nó hoạt động tương tự như một công cụ tìm kiếm, cho phép người dùng khám phá nhiều loại token và thực hiện giao dịch ở một nơi. Nó cho phép người dùng dễ dàng trao đổi và giao dịch các cặp token khác nhau ở một điểm, loại bỏ nhu cầu điều hướng trên nhiều sàn giao dịch DEX.
+
+Ví dụ về nền tảng này bao gồm Defillama và CowSwap.
+
+  - [Defillama](https://swap.defillama.com/)<base target="_blank">
+  - [CowSwap](https://swap.cow.fi/)<base target="_blank">
+
+   
+
+

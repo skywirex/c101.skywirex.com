@@ -19,7 +19,7 @@ Thông thường việc đi tìm kiếm một coin hoặc token tăng giá là v
 
 👉 Nhiều thông tin chi tiết cụ thể hơn có thể tìm thấy tại crypto hunter
 
-   - [Cryptohunter](https://www.cypherhunter.com/en/discover/)<base target="_blank"> 
+   - [Cryptohunter](https://www.cypherhunter.com/en/discover/)<base target="_blank">
    
 👉 Thông tin của một dự án từ vòng gọi vốn, tokenomic, vesting, list sàn ... 
 
