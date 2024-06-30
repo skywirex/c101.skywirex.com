@@ -31,6 +31,6 @@ Lưu ý:
 
 - Cuốn sách này rất sơ khai, chưa được hoàn thiện và sẽ được cập nhật thường xuyên dựa trên kinh nghiệm của người viết.
 
-- Cuốn sách này được viết bởi phần mềm [mdBook](https://github.com/rust-lang/mdBook)
+![Never Give Up](images/never-give-up.png)
 
-**Bản cập nhật 20240512**
+**Bản cập nhật 20240512** viết bởi phần mềm [mdBook](https://github.com/rust-lang/mdBook)
