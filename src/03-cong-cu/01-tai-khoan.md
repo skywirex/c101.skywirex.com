@@ -33,3 +33,12 @@
 [• Gitcoin Passport](https://www.gitcoin.co/)<base target="_blank">
 
    - Có nhiều loại điểm hiện nay nhưng gitcoin passport là một thứ nên có. Tài khoản nên có điểm càng cào điểm càng tốt. Có thể đọc thêm ở đây https://hakresearch.com/gitcoin-passport-airdrop/
+
+
+# Tài khoản thứ 2
+
+1) Gmail + Profile riêng cho gmail
+2) Bitwarden + Đăng nhập với Bitwarden | Quản lý password
+3) TK outlook mới
+5) Twitter
+6) Discord 
