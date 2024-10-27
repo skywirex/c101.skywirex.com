@@ -16,6 +16,8 @@ Sử dụng và lựa chọn một trong những cầu nối bên dưới, nên 
 
    - [Across Protocol](https://across.to?ref=0x210d1C4c1e94c52edd53039190A3eA43C35e9506)<base target="_blank">
 
+   - [Symbiosis Finance] (https://symbiosis.finance/)<base target="_blank">
+
    - [Stargate Finance](https://stargate.finance/)<base target="_blank">
 
    - [Transporter.io](https://www.transporter.io/)<base target="_blank"> | by @chainlink CCIP
