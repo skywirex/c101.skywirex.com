@@ -1,6 +1,6 @@
 # Giới thiệu
 
-Trong một thế giới tương lai được thống trị bởi tiền điện tử và các công nghệ phi tập trung, một cách kiếm tiền mới nổi lên được gọi là: "Săn Airdrop". Nó là cách thức khai phá những kho báu ẩn giấu dưới hình thức các airdrop, những token miễn phí (free token), được phân phối bởi các dự án blockchain để mở rộng cộng đồng. Không nằm gói gọn trong việc Săn Airdop, cuốn sách này còn về cách mua bán crypto theo chu kì để có thể đạt được lợi nhuận tốt. Hy vọng nó giúp các newbies - người mới vào thị trường tránh được sự đu đỉnh và sợ bỏ lỡ cơ hội (FOMO) trong crypto.
+Trong một thế giới tương lai được thống trị bởi tiền điện tử và các công nghệ phi tập trung, một cách kiếm tiền mới nổi lên được gọi là: "Săn Airdrop". Nó là cách thức kiếm tiền dưới hình thức các airdrop, những token miễn phí (free token), được phân phối bởi các dự án blockchain để mở rộng cộng đồng. Không nằm gói gọn trong việc Săn Airdop, cuốn sách này còn về cách mua bán crypto theo chu kì để có thể đạt được lợi nhuận tốt. Hy vọng nó giúp các newbies - người mới vào thị trường tránh được sự đu đỉnh và sợ bỏ lỡ cơ hội (FOMO) trong crypto.
 
 Do đó cuốn sách này sẽ chia sẻ hai chủ đề chính:
 
@@ -33,4 +33,4 @@ Lưu ý:
 
 ![Never Give Up](images/never-give-up.png)
 
-**Bản cập nhật 20240512** viết bởi phần mềm [mdBook](https://github.com/rust-lang/mdBook)
+**Bản cập nhật 20241106** viết bởi phần mềm [mdBook](https://github.com/rust-lang/mdBook)
