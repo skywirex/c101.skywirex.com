@@ -48,3 +48,20 @@ Thông thường việc đi tìm kiếm một coin hoặc token tăng giá là v
      |___ "Categories" --> Có thể xem mục này như là "Narratives". Here I check on the top protocols for different DeFi narratives.I also check if any narratives have surpassed others in TVL.
 
      |___  "Stables" --> Check to see what chains have had a large growth in Stables. This is a positive indicator of organic TVL growth.
+
+👉 Đánh giá kênh social của dự án
+
+   - [twitterscore](https://twitterscore.io/)<base target="_blank">
+
+   Công cụ twitterscore khá hữu ích trong việc đánh giá kênh social của dự án hoặc KOL trên thế giới. Nếu chịu khó cày cuốc có thể tìm ra nhiều insight hay ho. Nếu nghi ngờ page dự án là scam có thể kiểm tra độ trust của kênh #twitter bằng cách dán link kênh twitter vào để check score. Trong phần check score có thể check được dự án đang được follow bởi các KOL nào, có các quỹ nào follow, có các dự án nào khác follow,... Từ đó đánh giá mức độ được quan tâm và tiềm năng của dự án
+
+👉 TweetScout - Crypto Research Tool
+   - [TweetScout](https://tweetscout.io/)<base target="_blank">
+
+   Với TweetScout, bạn có thể theo dõi các memecoin đang thịnh hành, những lượt đề cập hàng đầu và thông tin từ các influencer ngay lập tức.
+
+   Công cụ này cung cấp dữ liệu thời gian thực, giúp bạn có cái nhìn rõ ràng về sự chú ý của cộng đồng và động lực ban đầu—tất cả trong một bảng điều khiển.
+
+   Nó giúp bạn đơn giản hóa việc nghiên cứu, nắm bắt xu hướng sớm và tiết kiệm hàng giờ đồng hồ.
+
+
