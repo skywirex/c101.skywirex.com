@@ -20,8 +20,8 @@ Sự tương tác với mỗi dự án là khác nhau và không được thông
 
 Bạn là người mới bắt đầu thì ba Twitter bên dưới là nên theo dõi để thực hiện task và tương tác với các dự án blockchain
 
-- [mztacat](https://x.com/mztacat)
+- [mztacat](https://x.com/mztacat)<base target="_blank">
 
-- [asedd72](https://x.com/asedd72)
+- [ZunXBT](https://x.com/ZunXBT)<base target="_blank">
 
-- [CC2Ventures](https://x.com/CC2Ventures)
+- [CC2Ventures](https://x.com/CC2Ventures)<base target="_blank">
