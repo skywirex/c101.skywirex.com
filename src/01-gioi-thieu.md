@@ -14,15 +14,15 @@ Tất cả những kiến thức này được tổng hợp từ kinh nghiệm c
 
 Để dễ theo dõi và hỗ trợ cho newbies, Discord được tổ chức như sau:
 
-`—>>RETRO<<—`: kênh task là các dự án đang theo dõi và task làm retro
+| **Mục**       | **Nội dung**                                                                                   |
+|---------------|------------------------------------------------------------------------------------------------|
+| **RETRO**   | Kênh task là các dự án đang theo dõi và task làm retro                                            |
+| **NODE**    | Chạy node cho các dự án để có cơ hội nhận được token                                              |
+| **TRADING** | Thảo luận về chiến thuật trong CRYPTO để có xác xuất ăn market cao nhất                           |
+| **ARCHIVE** | Lưu trữ, những dự án không theo dõi nữa                                                           |
 
-`—>>NODE<<—`: chạy node cho các dự án để có cơ hội nhận được token
 
-`—>>TRADING<<—`: chiến thuật, quản lý vốn cũng như các thảo luận về đầu tư CRYPTO để có xác xuất ăn market cao nhất
-
-`—>>ARCHIVE<<—`: Lưu trữ và những dự án không theo dõi nữa
-
-**HÃY DÙNG CHỨC NĂNG TÌM KIẾM Ở DISCORD VÀ TÌM THEO TÊN DỰ ÁN Ở TWITTER ĐỂ TÌM CÁC TASK CÓ LIÊN QUAN ĐẾN DỰ ÁN**
+**TÌM KIẾM Ở DISCORD VÀ TÌM DỰ ÁN THEO TÊN TWITTER ĐỂ KIẾM CÁC TASK CÓ LIÊN QUAN ĐẾN DỰ ÁN**
 
 ![Never Give Up](images/never-give-up.png)
 
