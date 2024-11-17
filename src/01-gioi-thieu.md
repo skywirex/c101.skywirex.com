@@ -14,23 +14,24 @@ Tất cả những kiến thức này được tổng hợp từ kinh nghiệm c
 
 Để dễ theo dõi và hỗ trợ cho newbies, Discord được tổ chức như sau:
 
-- RETRO:
-	---- chứa các dự án đang theo đuổi và làm retro bao gồm các task được với hướng dẫn
-- NODE:
-	---- Chạy node cho các dự án để có cơ hội nhận được token
-- TRADING
-	---- Chiến thuật, quản lý vốn cũng như các thảo luận về đầu tư CRYPTO để có xác xuất ăn market cao nhất
-- ARCHIVE
-	---- Lưu trữ những dự án đã qua và những dự án không theo dõi nữa
+`—>>RETRO<<—`: kênh task là các dự án đang theo dõi và task làm retro
+
+`—>>NODE<<—`: chạy node cho các dự án để có cơ hội nhận được token
+
+`—>>TRADING<<—`: chiến thuật, quản lý vốn cũng như các thảo luận về đầu tư CRYPTO để có xác xuất ăn market cao nhất
+
+`—>>ARCHIVE<<—`: Lưu trữ và những dự án không theo dõi nữa
+
+**HÃY DÙNG CHỨC NĂNG TÌM KIẾM Ở DISCORD VÀ TÌM THEO TÊN DỰ ÁN Ở TWITTER ĐỂ TÌM CÁC TASK CÓ LIÊN QUAN ĐẾN DỰ ÁN**
+
+![Never Give Up](images/never-give-up.png)
 
 Lưu ý:
 
 - Nếu bạn không đủ kiên nhẫn để theo thị trường ít nhất 1 chu kì crypto (khoảng 4 năm) thì không nên đọc tiếp cuốn sách này.
 
-- Cuốn sách này đa phần cung cấp những từ khoá, nếu đọc không hiểu có thể sử dụng google để tìm kiếm thêm thông tin.
+- Cuốn sách này đa phần cung cấp những từ khoá, nếu đọc không hiểu có thể sử dụng google và chatgpt để tìm kiếm thêm thông tin.
 
 - Cuốn sách này rất sơ khai, chưa được hoàn thiện và sẽ được cập nhật thường xuyên dựa trên kinh nghiệm của người viết.
 
-![Never Give Up](images/never-give-up.png)
-
-**Bản cập nhật 20241106** viết bởi phần mềm [mdBook](https://github.com/rust-lang/mdBook)
+**Bản cập nhật 20241117** viết bởi phần mềm [mdBook](https://github.com/rust-lang/mdBook)
