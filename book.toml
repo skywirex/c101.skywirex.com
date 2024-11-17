@@ -10,3 +10,4 @@ src = "src"
 git-repository-url = "https://github.com/skywirex/c101.skywirex.com"
 git-repository-icon = "fa-github"
 default-theme = "light"
+additional-css = ["theme/css/custom.css"]
