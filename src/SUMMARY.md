@@ -21,6 +21,7 @@
 	- [Kiến thức cơ bản](./07-node/01-kien-thuc-co-ban.md)
 	- [Chạy node](./07-node/02-chay-node.md)
 	- [Solo staker](./07-node/03-solo-staker.md)
+	- [Tools](./07-node/04-tools.md)
 - [Đi săn](./08-di-san.md)
 - [Chu kì của thị trường](./09-chu-ki-cua-thi-truong.md)
 	- [Chu kì của Altcoin](./09-chu-ki/01-chu-ki-altcoin.md)
