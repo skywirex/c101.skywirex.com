@@ -8,6 +8,15 @@
 
 - [heycape_](https://x.com/heycape_)<base target="_blank">
 
+- [OxTochi](https://x.com/OxTochi)<base target="_blank">
+
+- [0x_Lens](https://x.com/0x_Lens)<base target="_blank">
+
+- [MingoAirdrop](https://x.com/MingoAirdrop)<base target="_blank">
+
+### Node
+
+- [ZunXBT](https://x.com/ZunXBT)<base target="_blank">
 
 ### Tin tức nóng về Crypto
 
@@ -23,6 +32,16 @@
 - [@BobLoukas](https://x.com/BobLoukas)<base target="_blank"> => Phân tích kĩ thuật theo chu kì dài 4 năm
 
 
+Hệ sinh thái Arbitrum
+
+- [@Defi0xJeff](https://x.com/Defi0xJeff)<base target="_blank">
+
+Lambro đã cung cấp nội dung chất lượng cao
+
+- [@2lambro](https://x.com/2lambro)<base target="_blank">
+
+
+
 Scams: 
 @zachxbt
 
@@ -33,9 +52,6 @@ Contracts:
 Airdrops:
 - General: 
 
-@MingoAirdrop
- 
-
 @tobific
  
 @AnonVee_
@@ -43,14 +59,9 @@ Airdrops:
 @Joshyysmartt
  
 @info_insightful
- 
-@0x_Lens
- 
-@OxTochi
-
 
 - Node Running: 
-@ZunXBT
+
 
 - On-chain Metrics: 
 @FIP_Crypto
@@ -61,17 +72,6 @@ Airdrops:
 - Solana: 
 @FabianoSolana
 
-- 中文 Airdrops: 
-@Airdrop_Guard
- 
-@dwj_eric
-
-- 中文 NFTs/Memecoin: 
-@0xSunNFT
-
-
-Ordinals: 
-@nftboi_
  
 @Jiurn
 
@@ -143,12 +143,5 @@ Content Creation:
 
 
 
-Hệ sinh thái Arbitrum mà không cần phải duyệt qua DeFillama cả ngày
-
-- [@Defi0xJeff](https://x.com/Defi0xJeff)<base target="_blank">
-
-Lambro đã cung cấp nội dung chất lượng cao
-
-- [@2lambro](https://x.com/2lambro)<base target="_blank">
 
 
