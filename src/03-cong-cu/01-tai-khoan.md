@@ -32,8 +32,11 @@
 
 [• Gitcoin Passport](https://www.gitcoin.co/)<base target="_blank">
 
-   - Có nhiều loại điểm hiện nay nhưng gitcoin passport là một thứ nên có. Tài khoản nên có điểm càng cào điểm càng tốt. Có thể đọc thêm ở đây https://hakresearch.com/gitcoin-passport-airdrop/
+   - Gitcoin Passport là một công cụ xác thực danh tính phi tập trung được phát triển bởi Gitcoin, nhằm giúp người dùng chứng minh "danh tính đáng tin cậy" trong các nền tảng và dự án Web3 mà không cần tiết lộ thông tin cá nhân cụ thể. Gitcoin Passport giúp chống gian lận trong các chương trình airdrops, grants (tài trợ), hoặc các cuộc bầu chọn phi tập trung (DAO voting). Hỗ trợ các dự án xác minh người dùng mà không cần quy trình KYC truyền thống.
 
+[• Binance Account Bound Token](https://www.binance.com/en/BABT)<base target="_blank">
+
+   - Binance Account Bound Token (BAB Token) là một loại token không thể chuyển nhượng được (non-transferable token) được phát hành trên BNB Chain. Đây là một dạng Soulbound Token (SBT) – một loại token đại diện cho danh tính kỹ thuật số của người dùng, gắn liền với một tài khoản cá nhân và không thể giao dịch hay chuyển nhượng cho người khác. BAB Token chủ yếu được sử dụng để xác nhận rằng người sở hữu đã hoàn thành quá trình xác minh danh tính (KYC - Know Your Customer) trên Binance. BAB Token được sử dụng như một dạng chứng nhận KYC để truy cập vào các dự án hoặc ứng dụng phi tập trung (DApps) trong hệ sinh thái BNB Chain. Các dự án có thể tận dụng BAB Token để quản lý quyền truy cập, phân phối phần thưởng, chống bot, hoặc xác minh danh tính người dùng.
 
 # Tài khoản thứ 2
 
