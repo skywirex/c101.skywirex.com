@@ -17,4 +17,4 @@ Có thể dùng trang này để săn GEM --> https://bigtrade.vn/boi-cung-ca-ma
    - [remix](https://remix.ethereum.org/) | Hỗ trợ deploy contract
 
 
-- [https://www.netacad.com/](https://cryptorank.io/) Các khoá học về lập trình như Python JS miễn phí
+- [https://www.netacad.com/](https://www.netacad.com/) Các khoá học về lập trình như Python, JS miễn phí
