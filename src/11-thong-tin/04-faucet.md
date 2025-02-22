@@ -4,42 +4,72 @@ Link Faucet testnet (vui lòng báo link hỏng ở Telegram hoặc Discord)
 
 ➡️Link Faucet $ETH 
 
-- HOLESKY
+Ethereum Sepolia
 
-- SEPOLIA
+🟢https://sepoliafaucet.com
+🟢https://www.alchemy.com/faucets/ethereum-sepolia
+🟢https://infura.io/faucet/sepolia
+🟢https://faucet-sepolia.rockx.com
+🟢https://access.rockx.com/faucet-sepolia
+🟢https://faucetlink.to/sepolia
+🟢https://sepolia-faucet.pk910.de
 
-https://www.infura.io/faucet/sepolia
+Ethereum Goerli
+🟠https://faucet.quicknode.com/ethereum/goerli
+🟠https://app.mycrypto.com/faucet
+🟠https://testnet.help/ru/ethfaucet/goerli
+🟠https://staging.aave.com/faucet/
+🟠https://www.allthatnode.com/faucet/ethereum.dsrv
+🟠https://faucet.chainstack.com
+🟠https://faucet.paradigm.xyz/
+🟠https://testnet.help/ru/ethfaucet/goerli
+🟠https://dashboard.tatum.io/faucets
 
-https://sepoliafaucet.com/
+Ethereum Holesky
+🟢https://www.holeskyfaucet.io/
+🟢https://faucets.pk910.de/
+🟢https://stakely.io/en/faucet/ethereum-holesky-testnet-eth
+🟢https://tatum.io/faucets/holesky
+🟢https://faucet.quicknode.com/ethereum/holesky
+🟢https://bwarelabs.com/faucets/ethereum-holesky
 
-https://sepolia-faucet.pk910.de/
+Bitcoin Testnet
+🟠https://coinfaucet.eu/en/btc-testnet/
+🟠https://tbtc.bitaps.com/
+🟠https://bitcoinfaucet.uo1.net/
+🟠https://tbch.googol.cash/
+🟠https://kuttler.eu/en/bitcoin/btc/faucet
 
-https://fauceth.komputing.org/
+BSC Testnet
+🟢https://www.bnbchain.org/en/testnet-faucet
+🟢https://faucet.quicknode.com/binance-smart-
+🟢https://faucets.chain.link/bnb-chain-testnet
+🟢https://faucets.chain.link/chapel
+🟢https://testnet.bnbchain.org/faucet-smart
 
-https://sepoliafaucet.net/
+Solana Testnet
+🟠https://faucet.quicknode.com/solana/testnet
+🟠https://solfaucet.com/
+🟠https://faucet.solana.com/
 
-https://sepolia-faucet.pk910.de/
+Polygon Mumbai
+🟢https://testmatic.vercel.app
+🟢https://faucet.quicknode.com/polygon/mumbai
+🟢https://faucets.chain.link/
+🟢https://faucet.polygon.technology
 
-https://www.infura.io/faucet
+Base/Optimism Sepolia
+🟠https://www.alchemy.com/faucets/base-sepolia
+🟠https://faucet.quicknode.com/base/sepolia
+🟠https://www.alchemy.com/faucets/optimism-sepolia
+🟠https://faucet.quicknode.com/optimism/sepolia
+🟠https://www.alchemy.com/faucets/arbitrum-sepolia
+
+Arbitrum Goerli
+🟢https://faucet.triangleplatform.com/arbitrum/goerli
 
 
-Polygon mainnet faucet
-https://www.gimlu.com/faucet
-
-Polygon mumbai testnet faucet
-https://mumbaifaucet.com/
-
-https://testmatic.vercel.app/
-
-https://faucet.polygon.technology/
-
-https://faucet.dsolutions.mn/
-
-https://t.me/bitsznbot
-
-Binance smart chain testnet faucet
-
-https://testnet.binance.org/faucet-smart
+Khác
 
 Avalanche fuji testnet faucet
 
@@ -63,28 +93,6 @@ https://xrpl.org/xrp-testnet-faucet.html
 
 Near testnet faucet
 https://wallet.testnet.near.org/
-
-Starknet testnet faucet
-https://www.starkswap.co/app/faucet
-
-Starknet goerli testnet faucet
-https://faucet.goerli.starknet.io/
-
-Cardano devnet and testnet faucet
-https://testnets.cardano.org/en/testnets/cardano/tools/faucet/
-
-Fantom opera testnet faucet
-https://faucet.fantom.network/
-
-Algorand testnet faucet
-https://bank.testnet.algorand.network/
-
-https://dispenser.testnet.aws.algodev.network/
-
-https://testnet.algoexplorer.io/dispenser
-
-Harmony one testnet faucet
-https://faucet.pops.one/
 
 Moonbeam testnet faucet
 https://rpc.testnet.moonbeam.network/
@@ -116,13 +124,6 @@ https://faucet.comdex.one/
 Multiple chain faucet from paradigm
 https://faucet.paradigm.xyz/
 
-Faucet tBNB testnet
-
-https://testnet.bnbchain.org/faucet-smart
-
-https://labs.zetachain.com/swap
-
-https://testnet.cashmere.exchange/swap
 
 ##### Bitcoin testnet faucet
 
