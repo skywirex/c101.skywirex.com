@@ -19,4 +19,9 @@ Gần những đáy gần đây, BTC đã có hai giai đoạn tích lũy với 
 
 Trong thị trường giảm giá (bear market), mọi người sẽ kêu gọi giá cả thấp hơn vì họ tin rằng giá chỉ có thể đi xuống. Nếu tất cả mọi người đều kêu gọi giá của BTC là 12.000 USD, khả năng là điều này sẽ không xảy ra. Thay vào đó, hãy tìm kiếm những giai đoạn tích lũy tiềm năng và áp dụng chiến lược DCA (Trung bình giá) xung quanh mức giá thấp thay vì xác định mức giá tuyệt đối.
 
-Các tin tức không phải là người bạn đồng hành của bạn. Có lý do khiến hành động giá diễn ra trước khi tin tức được công bố. Đến khi bạn nghe về một tin tức nào đó, thị trường có thể đã định giá vào phần lớn sự chuyển động rồi. Bạn có thể cập nhật thông tin thường xuyên, nhưng hãy cảnh giác vì hầu hết chúng chỉ là tiếng ồn dẫn đến quyết định không hợp lý của bạn.
+Các tin tức không phải là người bạn đồng hành của bạn. Có lý do khiến hành động giá diễn ra trước khi tin tức được công bố. Đến khi bạn nghe về một tin tức nào đó, thị trường có thể đã định giá vào phần lớn sự chuyển động rồi. Bạn có thể cập nhật thông tin thường xuyên, nhưng hãy cảnh giác vì hầu hết chúng chỉ là tiếng ồn dẫn đến quyết định không hợp lý của bạn.  
+
+
+Bonus tấm hình về sự lặp lại đáng sợ của chu kì để suy ngẫm và tích luỹ tài sản
+
+![Chu kì tích luỹ tài sản](images/chu-ki-tai-san.jpg)  
