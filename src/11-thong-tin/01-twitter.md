@@ -1,8 +1,8 @@
 # Twitter nên theo dõi
 
-### Airdrop:
+### Node & Airdrop:
 
-- [mztacat](https://x.com/mztacat)<base target="_blank">
+- [ZunXBT](https://x.com/Zun2025)<base target="_blank">
 
 - [CC2Ventures](https://x.com/CC2Ventures)<base target="_blank">
 
@@ -14,9 +14,8 @@
 
 - [MingoAirdrop](https://x.com/MingoAirdrop)<base target="_blank">
 
-### Node
+- [mztacat](https://x.com/mztacat)<base target="_blank">
 
-- [ZunXBT](https://x.com/ZunXBT)<base target="_blank">
 
 ### Tin tức nóng về Crypto
 
@@ -34,7 +33,7 @@
 
 Hệ sinh thái Arbitrum
 
-- [@Defi0xJeff](https://x.com/Defi0xJeff)<base target="_blank">
+x
 
 Lambro đã cung cấp nội dung chất lượng cao
 
@@ -42,8 +41,7 @@ Lambro đã cung cấp nội dung chất lượng cao
 
 
 
-Scams: 
-@zachxbt
+Scams Notifications: @zachxbt
 
 Contracts: 
 @0xCygaar
@@ -140,8 +138,3 @@ Content Creation:
 @AlexIsBuilding
  
 @lokithebird
-
-
-
-
-
