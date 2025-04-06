@@ -24,117 +24,75 @@
 - [WatcherGuru](https://x.com/WatcherGuru)<base target="_blank">
 
 
-### PTKT
+### Phân tích kĩ thuật
 
 - [@rektcapital](https://x.com/rektcapital)<base target="_blank">
 
 - [@BobLoukas](https://x.com/BobLoukas)<base target="_blank"> => Phân tích kĩ thuật theo chu kì dài 4 năm
 
 
-Hệ sinh thái Arbitrum
+### Scams Notifications
+- [ZachXBT](https://x.com/zachxbt)<base target="_blank">
 
-x
+### Contracts
+- [0xCygaar](https://x.com/0xCygaar)
 
-Lambro đã cung cấp nội dung chất lượng cao
 
+### General
+- [Tobific](https://x.com/tobific)<base target="_blank">
+- [AnonVee_](https://x.com/AnonVee_)<base target="_blank">
+- [Joshyysmartt](https://x.com/Joshyysmartt)<base target="_blank">
+- [Info_Insightful](https://x.com/info_insightful)<base target="_blank">
 - [@2lambro](https://x.com/2lambro)<base target="_blank">
 
 
+### On-chain Metrics
+- [FIP_Crypto](https://x.com/FIP_Crypto)<base target="_blank">
 
-Scams Notifications: @zachxbt
+### Cosmo
+- [73lV_](https://x.com/73lV_)<base target="_blank">
 
-Contracts: 
-@0xCygaar
+### Solana
+- [FabianoSolana](https://x.com/FabianoSolana)<base target="_blank">
+- [Jiurn](https://x.com/Jiurn)<base target="_blank">
 
+### ETH NFTs
+- [Waleswoosh](https://x.com/waleswoosh)<base target="_blank">
+- [LokiTheBird](https://x.com/lokithebird)<base target="_blank">
+- [Punk9059](https://x.com/punk9059)<base target="_blank">
 
-Airdrops:
-- General: 
+### NFT Alpha
+- [Tma_420](https://x.com/Tma_420)<base target="_blank">
+- [0itsali0](https://x.com/0itsali0)<base target="_blank">
 
-@tobific
- 
-@AnonVee_
- 
-@Joshyysmartt
- 
-@info_insightful
+### Anything Base
+- [JessePollak](https://x.com/jessepollak)<base target="_blank">
 
-- Node Running: 
+### Web3 Gaming
+- [YellowPantherX](https://x.com/yellowpantherx)<base target="_blank">
+- [Inhuman](https://x.com/inhuman)<base target="_blank">
+- [Eth_Apple](https://x.com/eth_apple)<base target="_blank">
+- [Apixtwts](https://x.com/apixtwts)<base target="_blank">
 
+### Tokens/Charting
+- [0xENAS](https://x.com/0xENAS)<base target="_blank">
+- [Stoiic](https://x.com/stoiic)<base target="_blank">
+- [HsakaTrades](https://x.com/HsakaTrades)<base target="_blank">
 
-- On-chain Metrics: 
-@FIP_Crypto
+### English YouTubers
+- [ZssBecker](https://x.com/ZssBecker)<base target="_blank">
+- [Elliotrades](https://x.com/elliotrades)<base target="_blank">
+- [TheBrianJung](https://x.com/thebrianjung)<base target="_blank">
+- [Cryptomanran](https://x.com/cryptomanran)<base target="_blank">
+- [BlockBonnieC](https://x.com/BlockBonnieC)<base target="_blank">
+- [BrainBroCrypto](https://x.com/BrainBroCrypto)<base target="_blank">
+- [DefiIgnas](https://x.com/DefiIgnas)<base target="_blank">
+- [TryPluid](https://x.com/tryPluid)<base target="_blank">
 
-- Cosmo: 
-@73lV_
+### Best KOL Deals
+- [Real_n3xt](https://x.com/Real_n3xt)<base target="_blank">
+- [Themansion_eth](https://x.com/themansion_eth)<base target="_blank">
 
-- Solana: 
-@FabianoSolana
-
- 
-@Jiurn
-
-ETH NFTs: 
-@waleswoosh
- 
-@lokithebird
- 
-@punk9059
-
-NFT Alpha: 
-@Tma_420
- 
-@0itsali0
-
-Anything Base: 
-@jessepollak
-
-Web3 Gaming: 
-@yellowpantherx
- 
-@inhuman
- 
-@eth_apple
- 
-@apixtwts
-
-zkSync: 
-@frogmonkee
-
-
-Tokens/Charting: 
-@0xENAS
- 
-@stoiic
- 
-@HsakaTrades
-
-
-English YouTubers: 
-@ZssBecker
- 
-@elliotrades
- 
-@thebrianjung
- 
-@cryptomanran
-
- 
-@BlockBonnieC
- 
-@BrainBroCrypto
-
- 
-@DefiIgnas
- 
-@tryPluid
-
-
-Best KOL Deals: 
-@Real_n3xt
- 
-@themansion_eth
-
-Content Creation: 
-@AlexIsBuilding
- 
-@lokithebird
+### Content Creation
+- [AlexIsBuilding](https://x.com/AlexIsBuilding)<base target="_blank">
+- [LokiTheBird](https://x.com/lokithebird)<base target="_blank">
