@@ -1,6 +1,46 @@
 # Đi săn
 Thông thường việc đi tìm kiếm một coin hoặc token tăng giá là việc đi tìm thông tin dòng tiền trong hệ crypo sẽ chảy về đâu. Tiếp theo mới đánh giá ở các phương diện khác.
 
+## Dưới đây là một quy trình nghiên cứu crypto hằng ngày được chia sẻ bởi những người có kinh nghiệm
+
+### Kiểm tra Thị trường
+
+Bắt đầu với Coingecko để kiểm tra giá, đặc biệt là bản đồ nhiệt. Kiểm tra danh mục đầu tư bằng công cụ bạn chọn (*Debank, v.v.*).
+
+### Luôn Cập Nhật Thông Tin
+
+* **Dùng công cụ tổng hợp tin tức** như Treeofalpha & CryptoPanic để theo dõi.
+* **Kiểm tra hiệu suất theo xu hướng.** Nếu bạn mới bắt đầu, hãy dùng danh mục trên CoinGecko. Tự tạo danh sách theo dõi bằng TradingView hoặc Dexscreener.
+* **Lướt X trong 15 phút.** Điều này giúp bạn nắm được những gì các kênh tin lớn không đưa – chủ yếu là cảm xúc, xu hướng và văn hóa.
+
+### Theo dõi Chỉ số
+
+Bắt đầu với DeFiLlama để xác định các ngoại lệ. Nếu TVL của một chain hoặc protocol tăng xx%, bạn nên tìm hiểu lý do của việc tăng đột biến đó.
+
+Sau đó, bạn có thể kiểm tra các dashboard chuyên sâu hơn như Dune, Cryptofees.info, Flipside, TokenTerminal, Glassnode, Kaito AI, và nhiều hơn nữa.
+
+### Săn Alpha
+
+Hãy tìm kiếm những cơ hội mới ở đây
+
+* **Theo dõi dòng tiền thông minh.** Arkham Intelligence và DexScreener rất tốt. Có thể dùng Etherdrops hoặc Cielo để nhận thông báo. Chọn lọc một danh sách ví của các "smart money" phù hợp với phong cách đầu tư của mình, và tìm xem họ đang đầu tư token mới nào.
+* **X.** Tab “For You” khá lộn xộn, vì vậy hãy dùng X Pro + Lists.
+* **Telegram.** Các nhóm riêng tư, kênh, kênh của dự án, hoặc trò chuyện với bạn bè. Có vô số cách để học hỏi từ đây.
+
+### Nghiên cứu sâu hơn
+
+Dành thời gian đọc các tài liệu chuyên sâu hơn hơn như whitepaper, bài viết trên Medium, đề xuất quản trị, và lộ trình. Hãy dành thời gian đánh giá các protocol và viết lại phân tích của bạn.
+
+### Khi nghiên cứu, hãy nhớ rằng:
+
+1. **Tập trung vào nguồn gốc chính thống** – tốt hơn hết là đọc trực tiếp Whitepaper thay vì đọc bản tóm tắt của người khác, vốn có thể đầy thiên kiến.
+2. **Tốc độ thông tin là một lợi thế.** Bạn sẽ nghe tin từ Telegram và dữ liệu on-chain nhanh nhất. Nếu bạn biết thông tin qua Reddit hoặc YouTube thì thường đã chậm một bước.
+
+### Tuỳ chọn
+
+Xem các quỹ đầu tư mạo hiểm (VC) đang đầu tư vào đâu, thử nghiệm với các protocol mới, kết nối với người khác, và cách “nghiên cứu” tốt nhất chính là trực tiếp trải nghiệm.
+
+
 👉 Thông tin gọi vốn tổng quan. Ví dụ: @StoryProtocol gọi được $54M
 
    - [Crypto fundraising](https://crypto-fundraising.info/)<base target="_blank"> 
@@ -63,5 +103,3 @@ Thông thường việc đi tìm kiếm một coin hoặc token tăng giá là v
    Công cụ này cung cấp dữ liệu thời gian thực, giúp bạn có cái nhìn rõ ràng về sự chú ý của cộng đồng và động lực ban đầu—tất cả trong một bảng điều khiển.
 
    Nó giúp bạn đơn giản hóa việc nghiên cứu, nắm bắt xu hướng sớm và tiết kiệm hàng giờ đồng hồ.
-
-
