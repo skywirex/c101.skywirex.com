@@ -5,7 +5,7 @@ Trong một thế giới tương lai được thống trị bởi tiền điện
 Do đó cuốn sách này sẽ chia sẻ hai chủ đề chính:
 
 1. Kiếm tiền online bằng cách săn tìm những Airdrop tiềm năng
-2. Đầu tư bằng cách mua bán crypto để mang lại hiệu quả
+2. Chọn thời điểm mua bán crypto để mang lại hiệu quả
 
 Tất cả những kiến thức này được tổng hợp từ kinh nghiệm của người viết trong hành trình kiếm tiền ở lĩnh vực crypto. Nếu thấy cùng sở thích các bạn có thể tham gia group Telegram cũng như Discord để trao đổi thêm:
 

@@ -1,42 +1,127 @@
 # Đi săn
-Thông thường việc đi tìm kiếm một coin hoặc token tăng giá là việc đi tìm thông tin dòng tiền trong hệ crypo sẽ chảy về đâu. Tiếp theo mới đánh giá ở các phương diện khác.
 
-## Dưới đây là một quy trình nghiên cứu crypto hằng ngày được chia sẻ bởi những người có kinh nghiệm
+Là một **nhà đầu tư**, cách nhanh nhất để **mất tiền** chính là **nghe theo lời khuyên của người khác** mà **không hiểu gì về dự án** bạn đang đầu tư.  
 
-### Kiểm tra Thị trường
+Nếu bạn **mới bước chân vào thị trường crypto** và đang tìm kiếm **những kinh nghiệm thực tế**, thì những kinh nghiệm này dành cho bạn.
+## 1. Xác định “narrative” (câu chuyện định hướng)
 
-Bắt đầu với Coingecko để kiểm tra giá, đặc biệt là bản đồ nhiệt. Kiểm tra danh mục đầu tư bằng công cụ bạn chọn (*Debank, v.v.*).
+![image](https://pub-b731809282d4443bba205fbf4c8ae4ee.r2.dev/777372ff3d0e102979a75129fd28630f.png)
 
-### Luôn Cập Nhật Thông Tin
 
-* **Dùng công cụ tổng hợp tin tức** như Treeofalpha & CryptoPanic để theo dõi.
-* **Kiểm tra hiệu suất theo xu hướng.** Nếu bạn mới bắt đầu, hãy dùng danh mục trên CoinGecko. Tự tạo danh sách theo dõi bằng TradingView hoặc Dexscreener.
-* **Lướt X trong 15 phút.** Điều này giúp bạn nắm được những gì các kênh tin lớn không đưa – chủ yếu là cảm xúc, xu hướng và văn hóa.
+**Crypto là một trò chơi của những “narrative” (câu chuyện định hướng).**  
 
-### Theo dõi Chỉ số
+Nhưng các narrative luôn **thay đổi liên tục**, và **xu hướng của chúng cũng không ngừng phát triển theo thời gian. Nói cách khác, điều khiến thị trường chuyển động hôm nay có thể sẽ không còn “hot” vào tháng sau**. 
 
-Bắt đầu với DeFiLlama để xác định các ngoại lệ. Nếu TVL của một chain hoặc protocol tăng xx%, bạn nên tìm hiểu lý do của việc tăng đột biến đó.
+Do đó, để đầu tư hiệu quả, bạn cần **nắm bắt và thích nghi nhanh với các narrative mới** — chẳng hạn như sự chuyển dịch từ Metaverse → AI → Restaking → Prediction Markets… Hiểu và đi đúng “câu chuyện” đang được thị trường chú ý chính là **chìa khóa để đón đầu dòng tiền và lợi nhuận**.
 
-Sau đó, bạn có thể kiểm tra các dashboard chuyên sâu hơn như Dune, Cryptofees.info, Flipside, TokenTerminal, Glassnode, Kaito AI, và nhiều hơn nữa.
+Narrative là một trong những yếu tố quan trọng nhất trong thị trường crypto, vì toàn bộ thị trường thường vận động theo những “câu chuyện” này. Nếu bạn muốn đầu tư vào một dự án, hãy bắt đầu bằng việc tìm hiểu narrative đứng sau nó.  
 
-### Săn Alpha
+Nếu dự án vẫn theo những narrative đã lỗi thời như _metaverse_ hay _GameFi_, khả năng cao là dự án đó sẽ **không thể thành công**.
 
-Hãy tìm kiếm những cơ hội mới ở đây
+Có thể kiểm tra narrative của dự án trên các nền tảng như **@CoinMarketCap** hoặc **@CoinGecko**:
 
-* **Theo dõi dòng tiền thông minh.** Arkham Intelligence và DexScreener rất tốt. Có thể dùng Etherdrops hoặc Cielo để nhận thông báo. Chọn lọc một danh sách ví của các "smart money" phù hợp với phong cách đầu tư của mình, và tìm xem họ đang đầu tư token mới nào.
-* **X.** Tab “For You” khá lộn xộn, vì vậy hãy dùng X Pro + Lists.
-* **Telegram.** Các nhóm riêng tư, kênh, kênh của dự án, hoặc trò chuyện với bạn bè. Có vô số cách để học hỏi từ đây.
+- Truy cập: [https://coinmarketcap.com/cryptocurrency-category/](https://coinmarketcap.com/cryptocurrency-category/)
+    
+- Nhập tên dự án bạn muốn tìm.
+    
+- Cuộn xuống phần **“Tags”**.
+    
+Khi đã biết narrative của dự án, hãy xem ai đang là “leader” (người dẫn đầu) trong lĩnh vực đó. Kiểm tra xem dự án đó có đang có những động thái mới nào không (ví dụ: tăng khối lượng giao dịch), và xem liệu dự án bạn đang quan tâm có cơ hội cạnh tranh hay không.  
 
-### Nghiên cứu sâu hơn
+Bạn nên đầu tư vào **đối thủ cạnh tranh hoặc dự án “beta”** của người dẫn đầu — bởi vì khi dự án dẫn đầu tăng mạnh, dòng tiền thường chảy sang các dự án theo sau.
 
-Dành thời gian đọc các tài liệu chuyên sâu hơn hơn như whitepaper, bài viết trên Medium, đề xuất quản trị, và lộ trình. Hãy dành thời gian đánh giá các protocol và viết lại phân tích của bạn.
+Hãy chọn những narrative đang **“hot”** như **AI**, **prediction markets**, **InfoFi**, hoặc bất kỳ xu hướng nào đang nổi bật ở thời điểm bạn kiểm tra — đó là cách tốt nhất để kiếm lợi nhuận.
 
-### Khi nghiên cứu, hãy nhớ rằng:
+## 2. Nhà đầu tư chống lưng (Backer)
 
-1. **Tập trung vào nguồn gốc chính thống** – tốt hơn hết là đọc trực tiếp Whitepaper thay vì đọc bản tóm tắt của người khác, vốn có thể đầy thiên kiến.
-2. **Tốc độ thông tin là một lợi thế.** Bạn sẽ nghe tin từ Telegram và dữ liệu on-chain nhanh nhất. Nếu bạn biết thông tin qua Reddit hoặc YouTube thì thường đã chậm một bước.
+![image](https://pub-b731809282d4443bba205fbf4c8ae4ee.r2.dev/179dcbe8c83330df5028422a088848ab.png)
 
-### Tuỳ chọn
+Ngày nay, nhiều người không còn thích khái niệm “VCs” (quỹ đầu tư mạo hiểm) và ưa chuộng các dự án **tự huy động vốn** hơn. Tuy nhiên, nếu dự án bạn đang nghiên cứu **không có sản phẩm xuất sắc, không có đội ngũ nổi bật, và không phải là người dẫn đầu trong bất kỳ narrative nào**, thì **họ cần có một nhà đầu tư hậu thuẫn** để thúc đẩy tiến trình phát triển.
+
+Trang web thường dùng để kiểm tra **backer** của một dự án là **[CryptoFundraising](https://crypto-fundraising.info/)**.  
+Trang này cung cấp đầy đủ thông tin: từ nhà đầu tư, đội ngũ phát triển, các kênh mạng xã hội cho đến website chính thức của dự án — và **hoàn toàn miễn phí**.
+
+Cách kiểm tra:
+
+- Truy cập [https://crypto-fundraising.info/](https://crypto-fundraising.info/)
+- Tìm tên dự án bạn muốn xem    
+- Kiểm tra số vốn huy động và **xếp hạng của các quỹ đầu tư (VCs tier)**
+    
+Có thể nhận thấy rằng **các dự án huy động ít vốn**, chỉ có **khoảng 2–3 quỹ đầu tư**, thường **hiệu quả hơn** so với những dự án có **20+ quỹ đầu tư**. Hãy tưởng tượng điều này giống như một **chiếc bánh bị chia cho quá nhiều người** — đội ngũ phát triển sẽ **không thể tự quyết định** bất cứ điều gì mà không cần sự chấp thuận từ tất cả các VC đó.
+
+Xếp hạng (tier) của các VC cũng **rất quan trọng**. Một số quỹ được tin tưởng và yêu thích** gồm có:
+
+- **Coinbase Ventures**
+    
+- **a16z (Andreessen Horowitz)**
+    
+- **Polychain Capital**
+    
+- **Paradigm**
+    
+- **GSR**
+
+## 3. Kiểm tra mạng xã hội
+
+Điều này cũng rất quan trọng — nếu dự án **khóa phần bình luận** hoặc **thay đổi handle** mà không rõ lý do thì nên tránh xa họ. Để kiểm tra handle cũ, bạn có thể dùng **Rickbot trên Telegram**.
+ 
+Cách kiểm tra:
+
+- Mở Telegram.
+- Nhắn tin cho **@RickburpBot**.
+- Gõ lệnh: `/twit <handle của dự án>`
+   
+Bạn cũng nên chú ý tới **mutual followers** (những người cùng theo dõi). Nếu dự án được theo dõi bởi **hơn 20 người có tầm ảnh hưởng (notable people)** thì thường là một dấu hiệu tốt.
+
+![image](https://pub-b731809282d4443bba205fbf4c8ae4ee.r2.dev/7d633121d912777529d6f506e62d5791.png)
+
+
+Để kiểm tra tính hợp lệ của một dự án, bạn cũng có thể dùng **@ethos_network** — công cụ rất hay, nhưng với các dự án mới nó có thể chỉ hiển thị **score 950** mà chưa kèm đánh giá chi tiết.
+
+- Truy cập: [https://app.ethos.network/](https://app.ethos.network/)
+- Cài **extension Chrome** của Ethos.
+
+Cấu hình như hướng dẫn ở trên — khi cấu hình đúng, nếu một dự án nhận đánh giá xấu thì nó thậm chí **sẽ không hiển thị trên X** của bạn.  Bạn có thể sử dụng extension **miễn phí** mà không cần invite từ Ethos.
+
+## 4. Kiểm tra sâu hơn
+### Người sáng lập (Founders)
+
+Nên ưu tiên các dự án có **founder (người sáng lập)** hoạt động năng nổ hằng ngày trên **Crypto Twitter (CT)** và **tương tác tích cực với cộng đồng**. Một founder tốt là người **thực sự tin vào dự án của mình** và **sẵn sàng thừa nhận sai lầm**.  
+
+Hãy **tránh xa** những founder **ẩn danh (undoxxed)** hoặc **đã “cash out”** — những người chỉ nói “cộng đồng là tất cả” nhưng lại cư xử **xa cách và tự cao**.  
+
+Hành động của founder thường **ảnh hưởng trực tiếp đến hướng phát triển của dự án** sau khi ra mắt.
+
+### Sản phẩm (Product)
+
+Tính **dễ tiếp cận (Accessibility)** là ưu tiên hàng đầu của tôi.  
+
+Chỉ những sản phẩm **đơn giản, thân thiện với người dùng** mới có thể thu hút người dùng thực sự và **tạo ra doanh thu thật**.  
+
+Không ai quan tâm đến một blockchain “công nghệ lượng tử cứu đói thế giới” nếu nó **khó sử dụng**.
+
+### Tokenomics (Cơ chế phân bổ token)
+
+Đối với những dự án **đã có token**, nếu họ **phân bổ token cho các nhóm không liên quan** mà **không đóng góp gì cho dự án** (ví dụ: đưa token cho **Binance Alpha** chỉ để tạo hiệu ứng “hype” ngắn hạn), thì đó là **dấu hiệu cực kỳ xấu (red flag)**.
+
+Hành động này thường dẫn đến **TGE (Token Generation Event)** thất bại và **biểu đồ giá thảm họa** sau đó.
+
+Tokenomics không nhất thiết phải dành toàn bộ token cho cộng đồng, nhưng **phải minh bạch và rõ ràng về lịch mở khóa (unlock schedule)** cho mọi bên liên quan — **bao gồm cả đội ngũ dự án**.  
+
+**Tính minh bạch luôn là điều bắt buộc.**
+
+Bạn có thể kiểm tra **tokenomics** và **lịch mở khóa** tại **@Dropstab_com**:
+
+- Truy cập: [https://dropstab.com/vesting](https://dropstab.com/vesting)
+    
+- Tìm tên dự án bạn muốn xem
+    
+- Kiểm tra **biến động giá token** sau **lần mở khóa gần nhất** của dự án đó
+    
+Hy vọng những hướng dẫn này giúp bạn **nghiên cứu kỹ hơn** và **đưa ra quyết định đầu tư sáng suốt**.
+
+
+### 5. Các công cụ nghiên cứu sâu hơn
 
 Xem các quỹ đầu tư mạo hiểm (VC) đang đầu tư vào đâu, thử nghiệm với các protocol mới, kết nối với người khác, và cách “nghiên cứu” tốt nhất chính là trực tiếp trải nghiệm.
 
