@@ -31,27 +31,27 @@ Kẻ tấn công **đánh lừa người dùng ký duyệt** thông qua các tra
 * Trang “mint NFT miễn phí”, “giveaway”, hoặc các **giao diện nhái** ứng dụng nổi tiếng.
 * Khi bạn ký xong:
   • Hợp đồng độc hại có thể **tự động rút toàn bộ tiền trong ví bạn**
-  • Một số hợp đồng dùng **fallback function** để **tự động gửi đi toàn bộ token gốc (ETH, BNB, v.v.)** ngay khi ví nhận được
-  • Đặc biệt: kẻ tấn công **không cần gửi thêm giao dịch nào**, tiền **bị rút ngay trong cùng block mà bạn vừa nhận tiền**
+  • Một số hợp đồng dùng **fallback function** để **tự động gửi đi toàn bộ token gốc (ETH, BNB, v.v.)** ngay khi ví nhận được 
+  • Đặc biệt: kẻ tấn công **không cần gửi thêm giao dịch nào**, tiền **bị rút ngay trong cùng block mà bạn vừa nhận tiền** 
 
 ### 🛡️ Cách bảo vệ ví của bạn
 
-✅ **Chỉ ký ủy quyền (delegation)** với ứng dụng **uy tín và đã được xác minh**
-✅ **Đọc kỹ mọi yêu cầu chữ ký (signature request)** trước khi chấp nhận
-✅ **Vệ sinh ví thường xuyên** bằng công cụ như [RevokeCash](https://revoke.cash/)
+✅ **Chỉ ký ủy quyền (delegation)** với ứng dụng **uy tín và đã được xác minh** 
+✅ **Đọc kỹ mọi yêu cầu chữ ký (signature request)** trước khi chấp nhận 
+✅ **Vệ sinh ví thường xuyên** bằng công cụ như [RevokeCash](https://revoke.cash/) 
 
 > 👉 Kiểm tra mục **Outgoing Delegations** ở tab **Delegation** (như hình minh họa) để chắc chắn rằng bạn **không vô tình ủy quyền** cho ví hoặc hợp đồng lạ.
 
-![Delegation](https://pub-b731809282d4443bba205fbf4c8ae4ee.r2.dev/46df7c8945091e8f317840c0751da0cc.jpg)
+![Delegation](https://pub-b731809282d4443bba205fbf4c8ae4ee.r2.dev/46df7c8945091e8f317840c0751da0cc.jpg) 
 
-✅ **Cảnh giác với các “free mint” hoặc ưu đãi quá hấp dẫn**
-✅ **Kiểm tra kỹ URL**, **không nhấp vào liên kết lạ hoặc rút gọn**
-✅ Nếu tiền trong ví **biến mất bất thường**, hãy **kiểm tra lại các delegations ngay lập tức**
+✅ **Cảnh giác với các “free mint” hoặc ưu đãi quá hấp dẫn** 
+✅ **Kiểm tra kỹ URL**, **không nhấp vào liên kết lạ hoặc rút gọn** 
+✅ Nếu tiền trong ví **biến mất bất thường**, hãy **kiểm tra lại các delegations ngay lập tức** 
 
 ### 🚨 Nếu nghi ngờ ví bị xâm phạm
 
-• **Thu hồi (revoke)** ngay các delegations đáng ngờ bằng công cụ đáng tin cậy
-• **Chuyển toàn bộ tài sản sang ví mới**, không có quyền truy cập nào khả nghi
-• **Theo dõi hoạt động ví**, chú ý nếu có các giao dịch lặp lại hoặc bất thường
+• **Thu hồi (revoke)** ngay các delegations đáng ngờ bằng công cụ đáng tin cậy 
+• **Chuyển toàn bộ tài sản sang ví mới**, không có quyền truy cập nào khả nghi 
+• **Theo dõi hoạt động ví**, chú ý nếu có các giao dịch lặp lại hoặc bất thường 
 
 💡 *Tóm lại:* EIP-7702 giúp cải thiện trải nghiệm người dùng Web3, nhưng cũng mở ra kẽ hở mới cho kẻ gian. Cẩn trọng khi ký bất kỳ yêu cầu nào — mỗi chữ ký là một ủy quyền!
