@@ -3,10 +3,10 @@
 Là một **nhà đầu tư**, cách nhanh nhất để **mất tiền** chính là **nghe theo lời khuyên của người khác** mà **không hiểu gì về dự án** bạn đang đầu tư.  
 
 Nếu bạn **mới bước chân vào thị trường crypto** và đang tìm kiếm **những kinh nghiệm thực tế**, thì những kinh nghiệm này dành cho bạn.
+
 ## 1. Xác định “narrative” (câu chuyện định hướng)
 
 ![image](https://pub-b731809282d4443bba205fbf4c8ae4ee.r2.dev/777372ff3d0e102979a75129fd28630f.png)
-
 
 **Crypto là một trò chơi của những “narrative” (câu chuyện định hướng).**  
 
@@ -75,7 +75,6 @@ Bạn cũng nên chú ý tới **mutual followers** (những người cùng theo
 
 ![image](https://pub-b731809282d4443bba205fbf4c8ae4ee.r2.dev/7d633121d912777529d6f506e62d5791.png)
 
-
 Để kiểm tra tính hợp lệ của một dự án, bạn cũng có thể dùng **@ethos_network** — công cụ rất hay, nhưng với các dự án mới nó có thể chỉ hiển thị **score 950** mà chưa kèm đánh giá chi tiết.
 
 - Truy cập: [https://app.ethos.network/](https://app.ethos.network/)
@@ -84,6 +83,7 @@ Bạn cũng nên chú ý tới **mutual followers** (những người cùng theo
 Cấu hình như hướng dẫn ở trên — khi cấu hình đúng, nếu một dự án nhận đánh giá xấu thì nó thậm chí **sẽ không hiển thị trên X** của bạn.  Bạn có thể sử dụng extension **miễn phí** mà không cần invite từ Ethos.
 
 ## 4. Kiểm tra sâu hơn
+
 ### Người sáng lập (Founders)
 
 Nên ưu tiên các dự án có **founder (người sáng lập)** hoạt động năng nổ hằng ngày trên **Crypto Twitter (CT)** và **tương tác tích cực với cộng đồng**. Một founder tốt là người **thực sự tin vào dự án của mình** và **sẵn sàng thừa nhận sai lầm**.  
