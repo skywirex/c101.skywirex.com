@@ -1,4 +1,4 @@
-# An toàn trực tuyến
+## An toàn trực tuyến
 
 Extension bảo vệ an toàn trực tuyến: [pocketuniverse](https://join.pocketuniverse.app/ref/UUR1)
 
@@ -13,11 +13,11 @@ Các thông báo khi Popup hiện lên màu tím là an toàn, có thể kí đ�
 ![Popup an toàn](images/popup-an-toan.jpg)
 
 
-## ⚠️ Chiêu lừa mới lợi dụng EIP-7702 Delegations
+## Chiêu lừa mới lợi dụng EIP-7702 Delegations
 
 Kẻ tấn công đang **tự động rút sạch ví (auto-drain)** ngay khi có tiền chuyển vào — khiến nhiều người dùng hoang mang không hiểu vì sao ví mình trống rỗng và nghi ngờ cả các ứng dụng yêu thích. Hãy cùng tìm hiểu **chuyện gì đang xảy ra** và **cách bảo vệ bản thân.**
 
-### 🔍 EIP-7702 Delegations là gì?
+### EIP-7702 Delegations là gì?
 
 Hãy tưởng tượng EIP-7702 như việc bạn **giao cho ví của mình một “trợ lý thông minh”** — giúp ví thực hiện giao dịch phức tạp hơn, chẳng hạn như các tính năng của **account abstraction** (tài khoản trừu tượng).
 
