@@ -37,16 +37,21 @@ Kẻ tấn công **đánh lừa người dùng ký duyệt** thông qua các tra
 ### 🛡️ Cách bảo vệ ví của bạn
 
 ✅ **Chỉ ký ủy quyền (delegation)** với ứng dụng **uy tín và đã được xác minh** 
+
 ✅ **Đọc kỹ mọi yêu cầu chữ ký (signature request)** trước khi chấp nhận 
-✅ **Vệ sinh ví thường xuyên** bằng công cụ như [RevokeCash](https://revoke.cash/) 
+
+✅ **Dọn dẹp ví thường xuyên** bằng công cụ như [RevokeCash](https://revoke.cash/) 
 
 > 👉 Kiểm tra mục **Outgoing Delegations** ở tab **Delegation** (như hình minh họa) để chắc chắn rằng bạn **không vô tình ủy quyền** cho ví hoặc hợp đồng lạ.
 
 ![Delegation](https://pub-b731809282d4443bba205fbf4c8ae4ee.r2.dev/46df7c8945091e8f317840c0751da0cc.jpg) 
 
 ✅ **Cảnh giác với các “free mint” hoặc ưu đãi quá hấp dẫn** 
+
 ✅ **Kiểm tra kỹ URL**, **không nhấp vào liên kết lạ hoặc rút gọn** 
+
 ✅ Nếu tiền trong ví **biến mất bất thường**, hãy **kiểm tra lại các delegations ngay lập tức** 
+
 
 ### 🚨 Nếu nghi ngờ ví bị xâm phạm
 
