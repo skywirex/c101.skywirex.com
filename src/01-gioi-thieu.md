@@ -34,9 +34,9 @@ Lưu ý:
 
 - Cuốn sách này rất sơ khai, chưa được hoàn thiện và sẽ được cập nhật thường xuyên dựa trên kinh nghiệm của người viết.
 
-<video controls width="640">
+<center><video controls width="600">
   <source src="https://pub-b731809282d4443bba205fbf4c8ae4ee.r2.dev/63f216cbc4ddd5d275fd11961cb8b745.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video></center>
 
 **Bản cập nhật 20251221** viết bởi phần mềm [mdBook](https://github.com/rust-lang/mdBook)
