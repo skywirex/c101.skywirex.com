@@ -3,11 +3,9 @@ title = "Crypto 101: Đi Săn"
 description = "Kĩ năng săn kèo trong thế giới Crypto"
 authors = ["SkywireX team"]
 language = "vi"
-multilingual = false
 src = "src"
 
 [output.html]
 git-repository-url = "https://github.com/skywirex/c101.skywirex.com"
-git-repository-icon = "fa-github"
 default-theme = "light"
 additional-css = ["theme/css/custom.css"]
