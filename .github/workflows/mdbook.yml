@@ -32,9 +32,12 @@ jobs:
       MDBOOK_VERSION: 0.5.2
     steps:
       - uses: actions/checkout@v4
+      - name: Setup Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+      - name: Cache Cargo
+        uses: Swatinem/rust-cache@v2
       - name: Install mdBook
         run: |
-          curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
           cargo install --version ${MDBOOK_VERSION} mdbook
       - name: Setup Pages
         id: pages
