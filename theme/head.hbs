@@ -13,22 +13,30 @@
     var rightButtons = document.querySelector('.right-buttons');
     if (!rightButtons || document.querySelector('.build-meta')) return;
 
-    var versionUrl = (typeof path_to_root === 'string' ? path_to_root : '') + 'version.json';
-
-    fetch(versionUrl)
+    fetch('https://api.github.com/repos/skywirex/c101.skywirex.com/commits/master', {
+      headers: { 'Accept': 'application/vnd.github+json' }
+    })
       .then(function (response) {
-        if (!response.ok) throw new Error('Cannot load version metadata');
+        if (!response.ok) throw new Error('Cannot load commit metadata');
         return response.json();
       })
       .then(function (data) {
-        var commitSha = data && data.commitSha;
-        var commitShort = data && data.commitShort;
-        var buildDate = data && data.buildDate;
-        if (!commitSha || !commitShort || !buildDate) return;
+        var commitSha = data && data.sha;
+        var commitShort = commitSha ? commitSha.substring(0, 7) : null;
+        var commitDateRaw = data && data.commit && data.commit.committer && data.commit.committer.date;
+        if (!commitSha || !commitShort || !commitDateRaw) return;
+
+        var dateObj = new Date(commitDateRaw);
+        var commitDate = new Intl.DateTimeFormat('en-CA', {
+          year: 'numeric',
+          month: '2-digit',
+          day: '2-digit',
+          timeZone: 'Asia/Ho_Chi_Minh'
+        }).format(dateObj).replace(/-/g, '');
 
         var meta = document.createElement('span');
         meta.className = 'build-meta';
-        meta.innerHTML = 'v' + buildDate + ' · <a href="https://github.com/skywirex/c101.skywirex.com/commit/' + commitSha + '" target="_blank" rel="noopener noreferrer">' + commitShort + '</a>';
+        meta.innerHTML = 'v' + commitDate + ' · <a href="https://github.com/skywirex/c101.skywirex.com/commit/' + commitSha + '" target="_blank" rel="noopener noreferrer">' + commitShort + '</a>';
 
         var firstButton = rightButtons.firstElementChild;
         if (firstButton) {
