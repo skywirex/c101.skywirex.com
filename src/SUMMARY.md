@@ -24,6 +24,7 @@
 - [Đi săn](./08-di-san.md)
 - [Chu kì của thị trường](./09-chu-ki-cua-thi-truong.md)
 	- [Chu kì của Altcoin](./09-chu-ki/01-chu-ki-altcoin.md)
+	- [Đọc xu hướng coin khung 1H](./09-chu-ki/02-doc-xu-huong-coin-khung-1h.md)
 - [Tools và Scripts](./10-tools-va-scripts.md)
 	- [Tools](./10-tools-scripts/01-tools.md)
 - [Thông tin](./11-thong-tin.md)
