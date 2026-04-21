@@ -39,4 +39,4 @@ Lưu ý:
   Your browser does not support the video tag.
 </video></center>
 
-**Bản cập nhật 20251221** viết bởi phần mềm [mdBook](https://github.com/rust-lang/mdBook)
+**Phiên bản ngày __BUILD_DATE__** · Commit [`__COMMIT_SHORT__`](https://github.com/skywirex/c101.skywirex.com/commit/__COMMIT_SHA__) · viết bởi [mdBook](https://github.com/rust-lang/mdBook)

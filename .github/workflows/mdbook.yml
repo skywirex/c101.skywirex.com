@@ -42,6 +42,14 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      - name: Inject build metadata
+        run: |
+          BUILD_DATE=$(date -u +%Y-%m-%d)
+          COMMIT_SHA=${GITHUB_SHA}
+          COMMIT_SHORT=${GITHUB_SHA::7}
+          sed -i "s|__BUILD_DATE__|${BUILD_DATE}|g" src/01-gioi-thieu.md
+          sed -i "s|__COMMIT_SHA__|${COMMIT_SHA}|g" src/01-gioi-thieu.md
+          sed -i "s|__COMMIT_SHORT__|${COMMIT_SHORT}|g" src/01-gioi-thieu.md
       - name: Build with mdBook
         run: mdbook build
       - name: Upload artifact
