@@ -4,3 +4,21 @@ img {
   margin-right: auto;
   width: auto;  
 }
+
+.menu-bar .right-buttons {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.menu-bar .build-meta {
+  font-size: 12px;
+  line-height: 1;
+  opacity: 0.85;
+  white-space: nowrap;
+}
+
+.menu-bar .build-meta a {
+  color: inherit;
+  text-decoration: underline;
+}

@@ -7,3 +7,26 @@
 
   gtag('config', 'G-4GL9F6JJ2G');
 </script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var rightButtons = document.querySelector('.right-buttons');
+    if (!rightButtons || document.querySelector('.build-meta')) return;
+
+    var buildDate = '__BUILD_DATE__';
+    var commitSha = '__COMMIT_SHA__';
+    var commitShort = '__COMMIT_SHORT__';
+    if (buildDate.indexOf('__') !== -1 || commitSha.indexOf('__') !== -1 || commitShort.indexOf('__') !== -1) return;
+
+    var meta = document.createElement('span');
+    meta.className = 'build-meta';
+    meta.innerHTML = 'v' + buildDate + ' · <a href="https://github.com/skywirex/c101.skywirex.com/commit/' + commitSha + '" target="_blank" rel="noopener noreferrer">' + commitShort + '</a>';
+
+    var firstButton = rightButtons.firstElementChild;
+    if (firstButton) {
+      rightButtons.insertBefore(meta, firstButton);
+    } else {
+      rightButtons.appendChild(meta);
+    }
+  });
+</script>
