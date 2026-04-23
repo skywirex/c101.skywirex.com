@@ -115,3 +115,22 @@ Khởi động lại yazi để áp dụng:
 ```bash
 yazi
 ```
+
+---
+
+## Cài neovim
+
+```bash
+sudo apt install neovim
+```
+
+---
+
+## Kích hoạt trên yazi
+
+Sửa `~/.config/yazi/yazi.toml`:
+
+```toml
+[opener]
+edit = [{ run = 'nvim "$@"', block = true }]
+```
