@@ -27,6 +27,8 @@
 	- [Chu kì của Altcoin](./09-chu-ki/01-chu-ki-altcoin.md)
 - [Tools và Scripts](./10-tools-va-scripts.md)
 	- [Tools](./10-tools-scripts/01-tools.md)
+	- [Cài đặt Yazi trên Debian 12](./10-tools-scripts/02-cai-dat-yazi-debian12.md)
+	- [Tổng hợp cài đặt tools](./10-tools-scripts/03-install-index.md)
 - [Thông tin](./11-thong-tin.md)
 	- [Twitter nên theo dõi](./11-thong-tin/01-twitter.md)
 	- [Các quỹ đầu tư lớn](./11-thong-tin/02-quy-dau-tu.md)
