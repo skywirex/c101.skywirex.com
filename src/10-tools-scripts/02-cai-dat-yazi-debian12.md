@@ -2,6 +2,22 @@
 
 Debian 12 dùng GLIBC 2.36, vì vậy nên dùng **bản build musl** (static link, không phụ thuộc glibc).
 
+## Cài các gói phụ trợ (khuyến nghị)
+
+```bash
+sudo apt install ffmpeg jq poppler-utils fd-find ripgrep fzf zoxide file
+```
+
+Lý do nên cài:
+- `ffmpeg`: hỗ trợ preview metadata/thumbnails cho video và audio.
+- `jq`: xử lý JSON cho script/plugin khi cần parse dữ liệu.
+- `poppler-utils`: hỗ trợ preview PDF (thường dùng `pdftotext`/`pdfinfo`).
+- `fd-find`: tìm file nhanh hơn `find`, hữu ích cho workflow tìm kiếm.
+- `ripgrep`: tìm nội dung trong file rất nhanh, tích hợp tốt với terminal tools.
+- `fzf`: fuzzy finder để chọn file/thư mục nhanh.
+- `zoxide`: nhảy thư mục thông minh theo tần suất dùng.
+- `file`: nhận diện loại file để Yazi chọn cách preview/phân loại phù hợp.
+
 ```bash
 # 1. Tự động detect kiến trúc
 ARCH=$(uname -m)
