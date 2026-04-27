@@ -1,4 +1,6 @@
-# Đọc Xu Hướng Coin Khung 1H
+# Đọc Xu Hướng Coin
+
+Đọc xu hướng coin này có thể áp dụng trong đa khung thời gian. Khi xác nhận ở khung thời gian nhỏ cần kiểm tra ở khung thời gian lớn hơn để xác nhận xu hướng.
 
 > **Nguyên tắc cốt lõi:** Cần ít nhất **3/6 chỉ số đồng thuận** để xác nhận xu hướng. Dưới ngưỡng này — không xác định được xu hướng.
 

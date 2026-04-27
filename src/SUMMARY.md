@@ -16,7 +16,7 @@
 	- [Sàn giao dịch: tập trung và phi tập trung](./05-mua-va-ban/san-giao-dich-cex-dex.md)
 	- [Sử dụng sàn giao dịch](./05-mua-va-ban/su-dung-san-giao-dich.md)
 	- [Cầu nối (bridge)](./05-mua-va-ban/cau-noi-bridge.md)
-	- [Đọc xu hướng coin khung 1H](./05-mua-va-ban/04-doc-xu-huong-coin-khung-1h.md)
+	- [Đọc xu hướng coin khung 1H](./05-mua-va-ban/04-doc-xu-huong-coin.md)
 - [Retro Airdrop](./06-retro-airdrop.md)
 - [Node](./07-node.md)
 	- [Kiến thức cơ bản](./07-node/01-kien-thuc-co-ban.md)
